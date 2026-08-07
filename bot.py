@@ -185,6 +185,7 @@ def format_recette(
         f'({recette["type"]})** '
         f'{etoiles}\n\n'
         f'{ingredients}'
+        f'Si tu veux une recette, tape `/recette nom_de_ta_recette`'
     )
 
 
