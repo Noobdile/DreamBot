@@ -193,6 +193,7 @@ def format_recette(
 # ============================================================
 
 intents = discord.Intents.default()
+intents.message_content = True
 
 
 class DreamBot(
