@@ -1,0 +1,4583 @@
+{
+  "ajiaco": {
+    "nom": "Ajiaco",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Maïs",
+      "Pomme de terre",
+      "Volaille"
+    ]
+  },
+  "amandes_roties": {
+    "nom": "Amandes rôties",
+    "type": "hors d'oeuvre",
+    "etoiles": 2,
+    "ingredients": [
+      "Amandes",
+      "Agave"
+    ]
+  },
+  "ambroisie_etincelante": {
+    "nom": "Ambroisie étincelante",
+    "type": "hors d'oeuvre",
+    "etoiles": 2,
+    "ingredients": [
+      "Épice foudroyante",
+      "Ambroisie"
+    ]
+  },
+  "arepas_con_queso": {
+    "nom": "Arepas con queso",
+    "type": "hors d'oeuvre",
+    "etoiles": 3,
+    "ingredients": [
+      "Maïs",
+      "Fromage",
+      "Agave"
+    ]
+  },
+  "asperges_roties": {
+    "nom": "Asperges rôties",
+    "type": "hors d'oeuvre",
+    "etoiles": 2,
+    "ingredients": [
+      "Asperge",
+      "Colza"
+    ]
+  },
+  "assiette_d_olives": {
+    "nom": "Assiette d'olives",
+    "type": "plat principal",
+    "etoiles": 1,
+    "ingredients": [
+      "Olives"
+    ]
+  },
+  "ail_saumire": {
+    "nom": "Aïl saumiré",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Ail",
+      "Cristal de sel",
+      "Épices et herbes"
+    ]
+  },
+  "bagel_au_sesame": {
+    "nom": "Bagel au sésame",
+    "type": "plat principal",
+    "etoiles": 2,
+    "ingredients": [
+      "Blé",
+      "Sucres"
+    ]
+  },
+  "bagel_tartine_de_fromage": {
+    "nom": "Bagel tartiné de fromage",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Blé",
+      "Sucres",
+      "Fromage"
+    ]
+  },
+  "baguettes_de_fee": {
+    "nom": "Baguettes de fée",
+    "type": "dessert",
+    "etoiles": 3,
+    "ingredients": [
+      "Carambole",
+      "Fruit sucette",
+      "Fruits"
+    ]
+  },
+  "banana_split": {
+    "nom": "Banana Split",
+    "type": "dessert",
+    "etoiles": 5,
+    "ingredients": [
+      "Glace pilée",
+      "Banane",
+      "Lait",
+      "Canne à sucre",
+      "Sucres icone sombre"
+    ]
+  },
+  "baozi": {
+    "nom": "Baozi",
+    "type": "hors d'oeuvre",
+    "etoiles": 4,
+    "ingredients": [
+      "Blé",
+      "Soja",
+      "Épices et herbes",
+      "Porc"
+    ]
+  },
+  "bar_et_legumes_poeles": {
+    "nom": "Bar et légumes poêlés",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Bar",
+      "Légumes",
+      "Légumes"
+    ]
+  },
+  "barbe_a_papa": {
+    "nom": "Barbe à papa",
+    "type": "dessert",
+    "etoiles": 2,
+    "ingredients": [
+      "Agave",
+      "Canne à sucre"
+    ]
+  },
+  "baudroie_grillee_a_la_poele": {
+    "nom": "Baudroie grillée à la poêle",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Baudroie",
+      "Tomate",
+      "Courgette",
+      "Pomme de terre"
+    ]
+  },
+  "beignets": {
+    "nom": "Beignets",
+    "type": "dessert",
+    "etoiles": 4,
+    "ingredients": [
+      "Colza",
+      "Blé",
+      "Oeuf",
+      "Canne à sucre"
+    ]
+  },
+  "bento_amical": {
+    "nom": "Bento amical",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Poisson tigré",
+      "Chou frisé écarlate",
+      "Corail de miel",
+      "Légumes"
+    ]
+  },
+  "biryani": {
+    "nom": "Biryani",
+    "type": "plat principal",
+    "etoiles": 5,
+    "ingredients": [
+      "Volaille",
+      "Riz",
+      "Cannelle",
+      "Cumin",
+      "Menthe"
+    ]
+  },
+  "biscuit_mon_heros": {
+    "nom": "Biscuit \"Mon héros\"",
+    "type": "dessert",
+    "etoiles": 3,
+    "ingredients": [
+      "Blé",
+      "Beurre",
+      "Sucres"
+    ]
+  },
+  "biscuits": {
+    "nom": "Biscuits",
+    "type": "dessert",
+    "etoiles": 5,
+    "ingredients": [
+      "Blé",
+      "Canne à sucre",
+      "Beurre"
+    ]
+  },
+  "biscuits_au_gingembre_de_pimprenelle": {
+    "nom": "Biscuits au gingembre de Pimprenelle",
+    "type": "dessert",
+    "etoiles": 5,
+    "ingredients": [
+      "Seigle féerique",
+      "Oeufs d'oiseau-pelle",
+      "Gingembre",
+      "Noix de muscade",
+      "Baies acidulées"
+    ]
+  },
+  "biscuits_aux_pepites_de_chocolat": {
+    "nom": "Biscuits aux pépites de chocolat",
+    "type": "dessert",
+    "etoiles": 4,
+    "ingredients": [
+      "Fève de cacao",
+      "Blé",
+      "Beurre",
+      "Canne à sucre"
+    ]
+  },
+  "biscuits_de_la_vallee_a_la_groseille": {
+    "nom": "Biscuits de la vallée à la groseille",
+    "type": "dessert",
+    "etoiles": 3,
+    "ingredients": [
+      "Oeuf",
+      "Lait",
+      "Groseille"
+    ]
+  },
+  "biscuits_du_pays_des_merveilles": {
+    "nom": "Biscuits du pays des merveilles",
+    "type": "dessert",
+    "etoiles": 4,
+    "ingredients": [
+      "Vanille",
+      "Blé",
+      "Beurre",
+      "Canne à sucre"
+    ]
+  },
+  "biscuits_linzer_a_la_groseille": {
+    "nom": "Biscuits linzer à la groseille",
+    "type": "dessert",
+    "etoiles": 4,
+    "ingredients": [
+      "Blé",
+      "Beurre",
+      "Groseille",
+      "Canne à sucre"
+    ]
+  },
+  "biscuits_a_la_canelle": {
+    "nom": "Biscuits à la canelle",
+    "type": "dessert",
+    "etoiles": 4,
+    "ingredients": [
+      "Blé",
+      "Yaourt",
+      "Cannelle",
+      "Sucres"
+    ]
+  },
+  "biscuits_a_la_foudre": {
+    "nom": "Biscuits à la foudre",
+    "type": "dessert",
+    "etoiles": 4,
+    "ingredients": [
+      "Blé",
+      "Yaourt",
+      "Épice foudroyante",
+      "Sucres"
+    ]
+  },
+  "biscuits_a_la_muscade": {
+    "nom": "Biscuits à la muscade",
+    "type": "dessert",
+    "etoiles": 4,
+    "ingredients": [
+      "Blé",
+      "Yaourt",
+      "Noix de muscade",
+      "Sucres"
+    ]
+  },
+  "bol_d_oeufs_printaniers": {
+    "nom": "Bol d'oeufs printaniers",
+    "type": "dessert",
+    "etoiles": 5,
+    "ingredients": [
+      "Fruit délici-oeuf",
+      "L-OEUF-gumes de printemps",
+      "Oeuf printanier sauvage",
+      "Canne à sucre",
+      "Fève de cacao"
+    ]
+  },
+  "bon_vieux_hamburger": {
+    "nom": "Bon vieux hamburger",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Gibier",
+      "Blé",
+      "Laitue"
+    ]
+  },
+  "bonbon": {
+    "nom": "Bonbon",
+    "type": "dessert",
+    "etoiles": 1,
+    "ingredients": [
+      "Sucres"
+    ]
+  },
+  "bonbon_a_la_menthe": {
+    "nom": "Bonbon à la menthe",
+    "type": "dessert",
+    "etoiles": 2,
+    "ingredients": [
+      "Menthe",
+      "Canne à sucre"
+    ]
+  },
+  "borscht_au_babeurre": {
+    "nom": "Borscht au babeurre",
+    "type": "hors d'oeuvre",
+    "etoiles": 4,
+    "ingredients": [
+      "Betterave",
+      "Oeuf",
+      "Lait",
+      "Aneth"
+    ]
+  },
+  "bouillab_en_ciel": {
+    "nom": "Bouillab-en-ciel",
+    "type": "plat principal",
+    "etoiles": 5,
+    "ingredients": [
+      "Crevette prismatique",
+      "Fruits de mer",
+      "Truite arc-en-ciel",
+      "Tomate",
+      "Légumes"
+    ]
+  },
+  "bouillabaisse": {
+    "nom": "Bouillabaisse",
+    "type": "plat principal",
+    "etoiles": 5,
+    "ingredients": [
+      "Fruits de mer",
+      "Fruits de mer",
+      "Crevette",
+      "Tomate",
+      "Légumes"
+    ]
+  },
+  "bouilli_de_fruits_de_mer": {
+    "nom": "Bouilli de fruits de mer",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Fruits de mer",
+      "Épices",
+      "Pomme de terre",
+      "Maïs"
+    ]
+  },
+  "bouillie_de_riz_de_mushu": {
+    "nom": "Bouillie de riz de Mushu",
+    "type": "plat principal",
+    "etoiles": 5,
+    "ingredients": [
+      "Riz",
+      "Oeuf",
+      "Champignon",
+      "Ail",
+      "Gingembre"
+    ]
+  },
+  "boulettes_de_sesame": {
+    "nom": "Boulettes de sésame",
+    "type": "hors d'oeuvre",
+    "etoiles": 5,
+    "ingredients": [
+      "Gingembre",
+      "Blé",
+      "Riz",
+      "Soja",
+      "Algues"
+    ]
+  },
+  "brandade_de_morue": {
+    "nom": "Brandade de morue",
+    "type": "plat principal",
+    "etoiles": 5,
+    "ingredients": [
+      "Morue",
+      "Citron",
+      "Lait",
+      "Pomme de terre",
+      "Ail"
+    ]
+  },
+  "brochette_chimerique": {
+    "nom": "Brochette chimérique",
+    "type": "plat principal",
+    "etoiles": 5,
+    "ingredients": [
+      "Hippocampe",
+      "Escargot trompette",
+      "Poisson volant",
+      "Poissons",
+      "Chou de Bruxelles"
+    ]
+  },
+  "brochette_de_scorpion_epicee": {
+    "nom": "Brochette de scorpion épicée",
+    "type": "hors d'oeuvre",
+    "etoiles": 2,
+    "ingredients": [
+      "Scorpion",
+      "Paprika"
+    ]
+  },
+  "brochettes_vegetariennes": {
+    "nom": "Brochettes végétariennes",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Champignon",
+      "Courgette",
+      "Oignon",
+      "Poivron"
+    ]
+  },
+  "breme_au_four_epicee": {
+    "nom": "Brême au four épicée",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Brême",
+      "Piment",
+      "Beurre"
+    ]
+  },
+  "burger_de_thon": {
+    "nom": "Burger de thon",
+    "type": "plat principal",
+    "etoiles": 5,
+    "ingredients": [
+      "Thon",
+      "Oignon",
+      "Citron",
+      "Blé",
+      "Légumes"
+    ]
+  },
+  "burrito": {
+    "nom": "Burrito",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Protéines",
+      "Blé",
+      "Haricots",
+      "Cumin"
+    ]
+  },
+  "bunuelos": {
+    "nom": "Buñuelos",
+    "type": "hors d'oeuvre",
+    "etoiles": 4,
+    "ingredients": [
+      "Blé",
+      "Fromage",
+      "Lait",
+      "Oeuf"
+    ]
+  },
+  "buche_de_noel": {
+    "nom": "Bûche de Noël",
+    "type": "dessert",
+    "etoiles": 4,
+    "ingredients": [
+      "Blé",
+      "Fève de cacao",
+      "Vanille",
+      "Cerise"
+    ]
+  },
+  "cacahuetes_fumees_et_baudroie": {
+    "nom": "Cacahuètes fumées et baudroie",
+    "type": "plat principal",
+    "etoiles": 2,
+    "ingredients": [
+      "Baudroie",
+      "Cacahuète"
+    ]
+  },
+  "cacio_e_pepe": {
+    "nom": "Cacio e Pepe",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Grain élyséen",
+      "Feta feuillet",
+      "Poivre noir"
+    ]
+  },
+  "cafe": {
+    "nom": "Café",
+    "type": "hors d'oeuvre",
+    "etoiles": 1,
+    "ingredients": [
+      "Grain de café"
+    ]
+  },
+  "cafe_creme": {
+    "nom": "Café crème",
+    "type": "hors d'oeuvre",
+    "etoiles": 2,
+    "ingredients": [
+      "Grain de café",
+      "Lait"
+    ]
+  },
+  "cake_aux_fruits": {
+    "nom": "Cake aux fruits",
+    "type": "dessert",
+    "etoiles": 4,
+    "ingredients": [
+      "Blé",
+      "Fruits",
+      "Fruits",
+      "Fruits"
+    ]
+  },
+  "canapes_au_crabe": {
+    "nom": "Canapés au crabe",
+    "type": "hors d'oeuvre",
+    "etoiles": 2,
+    "ingredients": [
+      "Crabe",
+      "Fromage"
+    ]
+  },
+  "cannoli": {
+    "nom": "Cannoli",
+    "type": "dessert",
+    "etoiles": 3,
+    "ingredients": [
+      "Blé",
+      "Fromage",
+      "Oeuf",
+      "Vanille"
+    ]
+  },
+  "carottes_glacees_au_miel": {
+    "nom": "Carottes glacées au miel",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Carotte",
+      "Corail de miel",
+      "Aneth"
+    ]
+  },
+  "carpaccio_de_vers_des_sables": {
+    "nom": "Carpaccio de vers des sables",
+    "type": "hors d'oeuvre",
+    "etoiles": 2,
+    "ingredients": [
+      "Ver des sables",
+      "Melon"
+    ]
+  },
+  "carpe_au_four": {
+    "nom": "Carpe au four",
+    "type": "plat principal",
+    "etoiles": 2,
+    "ingredients": [
+      "Carpe",
+      "Beurre"
+    ]
+  },
+  "casserole_de_haricots_verts": {
+    "nom": "Casserole de haricots verts",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Haricots verts",
+      "Oignon",
+      "Porcinis"
+    ]
+  },
+  "casserole_de_legumes": {
+    "nom": "Casserole de légumes",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Légumes",
+      "Légumes",
+      "Fromage",
+      "Épices"
+    ]
+  },
+  "caviar_vert_saumure": {
+    "nom": "Caviar vert saumuré",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Sea Grapes",
+      "Cristal de sel",
+      "Épices et herbes"
+    ]
+  },
+  "cepelinai_a_l_hippocampe": {
+    "nom": "Cepelinai à l'hippocampe",
+    "type": "plat principal",
+    "etoiles": 5,
+    "ingredients": [
+      "Hippocampe",
+      "Oignon",
+      "Pomme de terre",
+      "Fraises spirales",
+      "Poivre noir"
+    ]
+  },
+  "ceviche_d_alose": {
+    "nom": "Ceviche d'alose",
+    "type": "hors d'oeuvre",
+    "etoiles": 4,
+    "ingredients": [
+      "Oignon",
+      "Tomate",
+      "Citron",
+      "Alose"
+    ]
+  },
+  "ceviche_en_conque": {
+    "nom": "Ceviche en conque",
+    "type": "hors d'oeuvre",
+    "etoiles": 4,
+    "ingredients": [
+      "Escargot de mer",
+      "Oignon",
+      "Tomate",
+      "Citron"
+    ]
+  },
+  "charlotte": {
+    "nom": "Charlotte",
+    "type": "dessert",
+    "etoiles": 3,
+    "ingredients": [
+      "Blé",
+      "Fraise",
+      "Agave"
+    ]
+  },
+  "chaudree": {
+    "nom": "Chaudrée",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Fruits de mer",
+      "Lait",
+      "Pomme de terre",
+      "Légumes"
+    ]
+  },
+  "cheesecake": {
+    "nom": "Cheesecake",
+    "type": "dessert",
+    "etoiles": 4,
+    "ingredients": [
+      "Fromage",
+      "Blé",
+      "Canne à sucre",
+      "Fruits icone sombre"
+    ]
+  },
+  "chocolat_chaud": {
+    "nom": "Chocolat chaud",
+    "type": "dessert",
+    "etoiles": 3,
+    "ingredients": [
+      "Canne à sucre",
+      "Lait",
+      "Fève de cacao"
+    ]
+  },
+  "chocolat_chaud_festif_a_la_cerise": {
+    "nom": "Chocolat chaud festif à la cerise",
+    "type": "dessert",
+    "etoiles": 4,
+    "ingredients": [
+      "Canne à sucre",
+      "Lait",
+      "Fève de cacao",
+      "Fève de cacao festive",
+      "Cerise"
+    ]
+  },
+  "chocolat_chaud_festif_a_la_menthe": {
+    "nom": "Chocolat chaud festif à la menthe",
+    "type": "dessert",
+    "etoiles": 4,
+    "ingredients": [
+      "Canne à sucre",
+      "Lait",
+      "Fève de cacao",
+      "Fève de cacao festive",
+      "Menthe"
+    ]
+  },
+  "chocolat_chaud_festif_a_la_myrtille": {
+    "nom": "Chocolat chaud festif à la myrtille",
+    "type": "dessert",
+    "etoiles": 4,
+    "ingredients": [
+      "Canne à sucre",
+      "Lait",
+      "Fève de cacao",
+      "Fève de cacao festive",
+      "Myrtille"
+    ]
+  },
+  "chocolat_du_printemps": {
+    "nom": "Chocolat du printemps",
+    "type": "dessert",
+    "etoiles": 3,
+    "ingredients": [
+      "L-OEUF-gumes de printemps",
+      "Fève de cacao",
+      "Canne à sucre"
+    ]
+  },
+  "chocolat_a_la_menthe": {
+    "nom": "Chocolat à la menthe",
+    "type": "dessert",
+    "etoiles": 4,
+    "ingredients": [
+      "Menthe",
+      "Canne à sucre",
+      "Beurre",
+      "Fève de cacao"
+    ]
+  },
+  "chou_fleur_saumure": {
+    "nom": "Chou-fleur saumuré",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Chou-fleur",
+      "Cristal de sel",
+      "Épices et herbes"
+    ]
+  },
+  "choucroute_saucisses": {
+    "nom": "Choucroute-saucisses",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Porc",
+      "Chou",
+      "Pomme de terre"
+    ]
+  },
+  "choux_de_bruxelles_au_four": {
+    "nom": "Choux de Bruxelles au four",
+    "type": "plat principal",
+    "etoiles": 2,
+    "ingredients": [
+      "Chou de Bruxelles",
+      "Ail"
+    ]
+  },
+  "club_sandwich": {
+    "nom": "Club sandwich",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Volaille",
+      "Porc",
+      "Blé",
+      "Tomate"
+    ]
+  },
+  "compote_de_pommes": {
+    "nom": "Compote de pommes",
+    "type": "dessert",
+    "etoiles": 2,
+    "ingredients": [
+      "Pomme",
+      "Cannelle"
+    ]
+  },
+  "confiture_merveilleuse": {
+    "nom": "Confiture merveilleuse",
+    "type": "plat principal",
+    "etoiles": 2,
+    "ingredients": [
+      "Fruit de Dreamlight",
+      "Blé"
+    ]
+  },
+  "coq_en_barbouille": {
+    "nom": "Coq en barbouille",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Volaille",
+      "Oignon",
+      "Raisin",
+      "Légumes"
+    ]
+  },
+  "courgerond_farci": {
+    "nom": "Courgerond farci",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Courgerond",
+      "Ail",
+      "Ambroisie"
+    ]
+  },
+  "crabe_esoterique_a_l_ail": {
+    "nom": "Crabe ésotérique à l'ail",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Bernard-l'hermite à chapeau de sorcier",
+      "Ail",
+      "Cristal de sel",
+      "Épices et herbes"
+    ]
+  },
+  "crackers": {
+    "nom": "Crackers",
+    "type": "hors d'oeuvre",
+    "etoiles": 1,
+    "ingredients": [
+      "Blé"
+    ]
+  },
+  "crackers_au_seigle_feerique": {
+    "nom": "Crackers au seigle féerique",
+    "type": "hors d'oeuvre",
+    "etoiles": 1,
+    "ingredients": [
+      "Seigle féerique"
+    ]
+  },
+  "croissant": {
+    "nom": "Croissant",
+    "type": "dessert",
+    "etoiles": 2,
+    "ingredients": [
+      "Blé",
+      "Beurre"
+    ]
+  },
+  "croquettes_de_poisson_alpines": {
+    "nom": "Croquettes de poisson alpines",
+    "type": "hors d'oeuvre",
+    "etoiles": 2,
+    "ingredients": [
+      "Bar alpin rouge",
+      "Aneth"
+    ]
+  },
+  "crudites": {
+    "nom": "Crudités",
+    "type": "hors d'oeuvre",
+    "etoiles": 1,
+    "ingredients": [
+      "Légumes"
+    ]
+  },
+  "creme_aux_graines_de_chia": {
+    "nom": "Crème aux graines de chia",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Graines de chia",
+      "Rhubarbe",
+      "Cannelle",
+      "Sucres"
+    ]
+  },
+  "creme_aux_graines_de_chia_simple": {
+    "nom": "Crème aux graines de chia simple",
+    "type": "hors d'oeuvre",
+    "etoiles": 1,
+    "ingredients": [
+      "Graines de chia"
+    ]
+  },
+  "creme_glacee": {
+    "nom": "Crème glacée",
+    "type": "dessert",
+    "etoiles": 3,
+    "ingredients": [
+      "Glace pilée",
+      "Lait",
+      "Canne à sucre"
+    ]
+  },
+  "creme_glacee_au_chocolat": {
+    "nom": "Crème glacée au chocolat",
+    "type": "dessert",
+    "etoiles": 4,
+    "ingredients": [
+      "Glace pilée",
+      "Lait",
+      "Canne à sucre",
+      "Fève de cacao"
+    ]
+  },
+  "creme_glacee_de_reve": {
+    "nom": "Crème glacée de rêve",
+    "type": "dessert",
+    "etoiles": 4,
+    "ingredients": [
+      "Glace pilée",
+      "Lait",
+      "Fruit de Dreamlight"
+    ]
+  },
+  "creme_glacee_a_la_banane": {
+    "nom": "Crème glacée à la banane",
+    "type": "dessert",
+    "etoiles": 4,
+    "ingredients": [
+      "Glace pilée",
+      "Lait",
+      "Canne à sucre",
+      "Banane"
+    ]
+  },
+  "creme_glacee_a_la_noix_de_coco": {
+    "nom": "Crème glacée à la noix de coco",
+    "type": "dessert",
+    "etoiles": 4,
+    "ingredients": [
+      "Glace pilée",
+      "Lait",
+      "Canne à sucre",
+      "Noix de coco"
+    ]
+  },
+  "creme_glacee_a_la_vanille": {
+    "nom": "Crème glacée à la vanille",
+    "type": "dessert",
+    "etoiles": 4,
+    "ingredients": [
+      "Glace pilée",
+      "Lait",
+      "Canne à sucre",
+      "Vanille"
+    ]
+  },
+  "creme_patissiere_et_fruits": {
+    "nom": "Crème pâtissière et fruits",
+    "type": "dessert",
+    "etoiles": 5,
+    "ingredients": [
+      "Fruits",
+      "fruits",
+      "Fruits",
+      "Lait",
+      "Canne à sucre"
+    ]
+  },
+  "crepe": {
+    "nom": "Crêpe",
+    "type": "dessert",
+    "etoiles": 4,
+    "ingredients": [
+      "Blé",
+      "Oeuf",
+      "Lait",
+      "Vanille"
+    ]
+  },
+  "crepe_en_portefeuille": {
+    "nom": "Crêpe en portefeuille",
+    "type": "dessert",
+    "etoiles": 4,
+    "ingredients": [
+      "Blé",
+      "Oeuf",
+      "Lait",
+      "Poires nichées"
+    ]
+  },
+  "cuisse_de_dinde": {
+    "nom": "Cuisse de dinde",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Volaille",
+      "Cumin",
+      "Paprika",
+      "Agave"
+    ]
+  },
+  "cullen_skink_au_poisson_loup": {
+    "nom": "Cullen skink au poisson-loup",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Loup de mer",
+      "Oignon",
+      "Pomme de terre",
+      "Yaourt"
+    ]
+  },
+  "cupcake_de_minnie": {
+    "nom": "Cupcake de Minnie",
+    "type": "dessert",
+    "etoiles": 5,
+    "ingredients": [
+      "Lait",
+      "Blé",
+      "Beurre",
+      "Canne à sucre",
+      "Pomme"
+    ]
+  },
+  "cupcake_de_sirene": {
+    "nom": "Cupcake de sirène",
+    "type": "dessert",
+    "etoiles": 5,
+    "ingredients": [
+      "Lait",
+      "Blé",
+      "Beurre",
+      "Canne à sucre",
+      "Pétoncle"
+    ]
+  },
+  "cupcake_de_spaceship_earth": {
+    "nom": "Cupcake de Spaceship Earth",
+    "type": "dessert",
+    "etoiles": 5,
+    "ingredients": [
+      "Lait",
+      "Blé",
+      "Beurre",
+      "Canne à sucre",
+      "Noix de coco"
+    ]
+  },
+  "cupcake_de_stitch": {
+    "nom": "Cupcake de Stitch",
+    "type": "dessert",
+    "etoiles": 5,
+    "ingredients": [
+      "Lait",
+      "Blé",
+      "Beurre",
+      "Canne à sucre",
+      "Myrtille"
+    ]
+  },
+  "cupcake_a_la_framboise_de_la_princesse_aurore": {
+    "nom": "Cupcake à la framboise de la princesse Aurore",
+    "type": "dessert",
+    "etoiles": 5,
+    "ingredients": [
+      "Lait",
+      "Blé",
+      "Beurre",
+      "Canne à sucre",
+      "Framboise"
+    ]
+  },
+  "cupcakes": {
+    "nom": "Cupcakes",
+    "type": "dessert",
+    "etoiles": 4,
+    "ingredients": [
+      "Blé",
+      "Oeuf",
+      "Cerise",
+      "Agave"
+    ]
+  },
+  "cereales_canines_croustillantes": {
+    "nom": "Céréales canines croustillantes",
+    "type": "plat principal",
+    "etoiles": 2,
+    "ingredients": [
+      "Orge perlé",
+      "Pêche à aiguilles"
+    ]
+  },
+  "dahl_aux_lentilles_corail": {
+    "nom": "Dahl aux lentilles corail",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Piment",
+      "Lentilles corail",
+      "Tomate"
+    ]
+  },
+  "dattes_farcies": {
+    "nom": "Dattes farcies",
+    "type": "dessert",
+    "etoiles": 2,
+    "ingredients": [
+      "Amandes",
+      "Dattes"
+    ]
+  },
+  "dessert_aux_baies_acidulees": {
+    "nom": "Dessert aux baies acidulées",
+    "type": "dessert",
+    "etoiles": 2,
+    "ingredients": [
+      "Ambroisie",
+      "Baies acidulées"
+    ]
+  },
+  "diplomate_retro_a_la_peche": {
+    "nom": "Diplomate rétro à la pêche",
+    "type": "plat principal",
+    "etoiles": 5,
+    "ingredients": [
+      "Pêche à aiguilles",
+      "Lait",
+      "Orge perlé",
+      "Canne à sucre",
+      "Fruits"
+    ]
+  },
+  "donut_glace": {
+    "nom": "Donut glacé",
+    "type": "dessert",
+    "etoiles": 3,
+    "ingredients": [
+      "Blé",
+      "Oeuf",
+      "Sucres"
+    ]
+  },
+  "donut_a_la_cannelle": {
+    "nom": "Donut à la cannelle",
+    "type": "dessert",
+    "etoiles": 4,
+    "ingredients": [
+      "Blé",
+      "Oeuf",
+      "Cannelle",
+      "Sucres"
+    ]
+  },
+  "dore_jaune_en_papillote": {
+    "nom": "Doré jaune en papillote",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Doré jaune",
+      "Basilic",
+      "Origan",
+      "Légumes"
+    ]
+  },
+  "dumplings": {
+    "nom": "Dumplings",
+    "type": "hors d'oeuvre",
+    "etoiles": 4,
+    "ingredients": [
+      "Protéines",
+      "Blé",
+      "Légumes",
+      "Soja"
+    ]
+  },
+  "dumplings_vegetariens": {
+    "nom": "Dumplings végétariens",
+    "type": "hors d'oeuvre",
+    "etoiles": 3,
+    "ingredients": [
+      "Blé",
+      "Soja",
+      "Légumes"
+    ]
+  },
+  "delice_d_aphrodite": {
+    "nom": "Délice d'Aphrodite",
+    "type": "dessert",
+    "etoiles": 2,
+    "ingredients": [
+      "Pomme d'or",
+      "Ambroisie"
+    ]
+  },
+  "entree_de_poisson_grille": {
+    "nom": "Entrée de poisson grillé",
+    "type": "plat principal",
+    "etoiles": 2,
+    "ingredients": [
+      "Poissons",
+      "Légumes"
+    ]
+  },
+  "escargot_aquatique": {
+    "nom": "Escargot aquatique",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Escargot trompette",
+      "Ail",
+      "Cristal de sel"
+    ]
+  },
+  "espadon_a_l_ail_et_au_citron": {
+    "nom": "Espadon à l'ail et au citron",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Espadon",
+      "Ail",
+      "Citron"
+    ]
+  },
+  "esturgeon_poche_au_beurre_de_basilic": {
+    "nom": "Esturgeon poché au beurre de basilic",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Esturgeon blanc",
+      "Basilic",
+      "Citron",
+      "Beurre"
+    ]
+  },
+  "eton_mess": {
+    "nom": "Eton Mess",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Groseilles rouges",
+      "Pêche à aiguilles",
+      "Oeuf"
+    ]
+  },
+  "fajitas_fabuleuses": {
+    "nom": "Fajitas fabuleuses",
+    "type": "plat principal",
+    "etoiles": 5,
+    "ingredients": [
+      "Volaille",
+      "Blé",
+      "Cumin",
+      "Légumes",
+      "légumes"
+    ]
+  },
+  "falafel": {
+    "nom": "Falafel",
+    "type": "hors d'oeuvre",
+    "etoiles": 3,
+    "ingredients": [
+      "Ail",
+      "Haricots",
+      "Cumin"
+    ]
+  },
+  "festin_de_lionne": {
+    "nom": "Festin de lionne",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Poisson de l'Ici et là",
+      "Champignon",
+      "Tomate",
+      "Origan"
+    ]
+  },
+  "feta_et_olives_au_four": {
+    "nom": "Feta et olives au four",
+    "type": "hors d'oeuvre",
+    "etoiles": 2,
+    "ingredients": [
+      "Feta feuillet",
+      "Olives"
+    ]
+  },
+  "fish_n_chips": {
+    "nom": "Fish'n'Chips",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Poissons",
+      "Blé",
+      "Colza",
+      "Pomme de terre"
+    ]
+  },
+  "flocons_d_avoine": {
+    "nom": "Flocons d'avoine",
+    "type": "plat principal",
+    "etoiles": 1,
+    "ingredients": [
+      "Avoine"
+    ]
+  },
+  "fondue_acidulee_au_kaki": {
+    "nom": "Fondue acidulée au kaki",
+    "type": "dessert",
+    "etoiles": 2,
+    "ingredients": [
+      "Kaki",
+      "Baies acidulées"
+    ]
+  },
+  "fondue_acidulee_au_melon_miel": {
+    "nom": "Fondue acidulée au melon miel",
+    "type": "dessert",
+    "etoiles": 2,
+    "ingredients": [
+      "Melon miel",
+      "Baies acidulées"
+    ]
+  },
+  "fondue_acidulee_aux_fraises_spirales": {
+    "nom": "Fondue acidulée aux fraises spirales",
+    "type": "dessert",
+    "etoiles": 2,
+    "ingredients": [
+      "Fraises spirales",
+      "Baies acidulées"
+    ]
+  },
+  "fondue_acidulee_aux_physalis": {
+    "nom": "Fondue acidulée aux physalis",
+    "type": "dessert",
+    "etoiles": 2,
+    "ingredients": [
+      "Physalis",
+      "Baies acidulées"
+    ]
+  },
+  "frites": {
+    "nom": "Frites",
+    "type": "hors d'oeuvre",
+    "etoiles": 2,
+    "ingredients": [
+      "Colza",
+      "Pomme de terre"
+    ]
+  },
+  "frites_de_legumes": {
+    "nom": "Frites (de légumes)",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Colza",
+      "Igname",
+      "Yuccarina"
+    ]
+  },
+  "fugu_cuit_a_la_vapeur": {
+    "nom": "Fugu cuit à la vapeur",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Fugu",
+      "Gingembre",
+      "Ail"
+    ]
+  },
+  "gaspacho": {
+    "nom": "Gaspacho",
+    "type": "hors d'oeuvre",
+    "etoiles": 4,
+    "ingredients": [
+      "Concombre",
+      "Tomate",
+      "Oignon",
+      "Épices"
+    ]
+  },
+  "gaufres": {
+    "nom": "Gaufres",
+    "type": "dessert",
+    "etoiles": 4,
+    "ingredients": [
+      "Blé",
+      "Lait",
+      "Oeuf",
+      "Sucres"
+    ]
+  },
+  "gaufres_au_beurre_de_cacahuete": {
+    "nom": "Gaufres au beurre de cacahuète",
+    "type": "dessert",
+    "etoiles": 4,
+    "ingredients": [
+      "Cacahuète",
+      "Blé",
+      "Oeuf",
+      "Lait"
+    ]
+  },
+  "gaufres_au_chocolat": {
+    "nom": "Gaufres au chocolat",
+    "type": "dessert",
+    "etoiles": 4,
+    "ingredients": [
+      "Fève de cacao",
+      "Blé",
+      "Oeuf",
+      "Lait"
+    ]
+  },
+  "gaufres_a_la_confiture": {
+    "nom": "Gaufres à la confiture",
+    "type": "dessert",
+    "etoiles": 4,
+    "ingredients": [
+      "Fruits",
+      "Blé",
+      "Oeuf",
+      "Lait"
+    ]
+  },
+  "glace_pilee_sucree": {
+    "nom": "Glace pilée sucrée",
+    "type": "dessert",
+    "etoiles": 2,
+    "ingredients": [
+      "Glace pilée",
+      "Sucres"
+    ]
+  },
+  "glace_a_l_eau": {
+    "nom": "Glace à l'eau",
+    "type": "dessert",
+    "etoiles": 3,
+    "ingredients": [
+      "Glace pilée",
+      "Canne à sucre",
+      "Fruits"
+    ]
+  },
+  "glace_a_l_eau_tropicale": {
+    "nom": "Glace à l'eau tropicale",
+    "type": "dessert",
+    "etoiles": 4,
+    "ingredients": [
+      "Glace pilée",
+      "Fruits",
+      "Canne à sucre",
+      "Noix de coco"
+    ]
+  },
+  "glace_a_l_italienne_a_l_ananas": {
+    "nom": "Glace à l'italienne à l'ananas",
+    "type": "dessert",
+    "etoiles": 2,
+    "ingredients": [
+      "Ananas",
+      "Glace pilée"
+    ]
+  },
+  "gombo": {
+    "nom": "Gombo",
+    "type": "plat principal",
+    "etoiles": 5,
+    "ingredients": [
+      "Okra",
+      "Crevette",
+      "Piment",
+      "Tomate",
+      "Oignon"
+    ]
+  },
+  "gougeres_au_piment": {
+    "nom": "Gougères au piment",
+    "type": "hors d'oeuvre",
+    "etoiles": 3,
+    "ingredients": [
+      "Piment",
+      "Oeuf",
+      "Fromage"
+    ]
+  },
+  "gougeres_aux_oignons": {
+    "nom": "Gougères aux oignons",
+    "type": "hors d'oeuvre",
+    "etoiles": 3,
+    "ingredients": [
+      "Oignon",
+      "Oeuf",
+      "Fromage"
+    ]
+  },
+  "gougeres_aux_poivrons": {
+    "nom": "Gougères aux poivrons",
+    "type": "hors d'oeuvre",
+    "etoiles": 3,
+    "ingredients": [
+      "Poivron",
+      "Oeuf",
+      "Fromage"
+    ]
+  },
+  "gougeres_aux_pommes_de_terre": {
+    "nom": "Gougères aux pommes de terre",
+    "type": "hors d'oeuvre",
+    "etoiles": 3,
+    "ingredients": [
+      "Pomme de terre",
+      "Oeuf",
+      "Fromage"
+    ]
+  },
+  "gougeres_aux_epinards_de_kronk": {
+    "nom": "Gougères aux épinards de Kronk",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Épinards",
+      "Fromage",
+      "Colza"
+    ]
+  },
+  "gougeres_a_l_aubergine": {
+    "nom": "Gougères à l'aubergine",
+    "type": "hors d'oeuvre",
+    "etoiles": 3,
+    "ingredients": [
+      "Aubergine",
+      "Oeuf",
+      "Fromage"
+    ]
+  },
+  "gougeres_a_la_citrouille": {
+    "nom": "Gougères à la citrouille",
+    "type": "hors d'oeuvre",
+    "etoiles": 3,
+    "ingredients": [
+      "Citrouille",
+      "Oeuf",
+      "Fromage"
+    ]
+  },
+  "gougeres_a_la_courgette": {
+    "nom": "Gougères à la courgette",
+    "type": "hors d'oeuvre",
+    "etoiles": 3,
+    "ingredients": [
+      "Courgette",
+      "Oeuf",
+      "Fromage"
+    ]
+  },
+  "grand_plateau_de_fruits_de_mer": {
+    "nom": "Grand plateau de fruits de mer",
+    "type": "hors d'oeuvre",
+    "etoiles": 5,
+    "ingredients": [
+      "Fruits de mer",
+      "Fruits de mer",
+      "Fruits de mer",
+      "Fruits de mer",
+      "Citron"
+    ]
+  },
+  "granite_acide": {
+    "nom": "Granité acide",
+    "type": "dessert",
+    "etoiles": 3,
+    "ingredients": [
+      "Glace pilée",
+      "Citron",
+      "Canne à sucre"
+    ]
+  },
+  "granite_nature": {
+    "nom": "Granité nature",
+    "type": "dessert",
+    "etoiles": 1,
+    "ingredients": [
+      "Glaces"
+    ]
+  },
+  "guimauves_grillees": {
+    "nom": "Guimauves grillées",
+    "type": "dessert",
+    "etoiles": 4,
+    "ingredients": [
+      "Guimauve rose",
+      "Guimauve bleue"
+    ]
+  },
+  "gateau_aux_fraises": {
+    "nom": "Gâteau aux fraises",
+    "type": "dessert",
+    "etoiles": 3,
+    "ingredients": [
+      "Blé",
+      "Oeuf",
+      "Fraise"
+    ]
+  },
+  "gateau_d_anniversaire": {
+    "nom": "Gâteau d'anniversaire",
+    "type": "dessert",
+    "etoiles": 5,
+    "ingredients": [
+      "Fève de cacao",
+      "Blé",
+      "Canne à sucre",
+      "Oeuf",
+      "Beurre"
+    ]
+  },
+  "gateau_d_aurore": {
+    "nom": "Gâteau d'Aurore",
+    "type": "dessert",
+    "etoiles": 5,
+    "ingredients": [
+      "Blé",
+      "Canne à sucre",
+      "Oeuf",
+      "Fruits",
+      "Lait"
+    ]
+  },
+  "gateau_de_lune": {
+    "nom": "Gâteau de lune",
+    "type": "dessert",
+    "etoiles": 4,
+    "ingredients": [
+      "Blé",
+      "Colza",
+      "Agave",
+      "Haricots"
+    ]
+  },
+  "gateau_de_mariage": {
+    "nom": "Gâteau de mariage",
+    "type": "dessert",
+    "etoiles": 5,
+    "ingredients": [
+      "Beurre",
+      "Canne à sucre",
+      "Vanille",
+      "Oeuf",
+      "Blé"
+    ]
+  },
+  "gateau_des_enfers": {
+    "nom": "Gâteau des Enfers",
+    "type": "dessert",
+    "etoiles": 5,
+    "ingredients": [
+      "Seigle féerique",
+      "Oeufs d'oiseau-pelle",
+      "Yaourt",
+      "Noix de muscade",
+      "Ambroisie"
+    ]
+  },
+  "gateau_a_la_banane": {
+    "nom": "Gâteau à la banane",
+    "type": "dessert",
+    "etoiles": 3,
+    "ingredients": [
+      "Banane",
+      "Blé",
+      "Beurre"
+    ]
+  },
+  "gateau_a_la_cannelle": {
+    "nom": "Gâteau à la cannelle",
+    "type": "dessert",
+    "etoiles": 4,
+    "ingredients": [
+      "Blé",
+      "Oeufs d'oiseau-pelle",
+      "Yaourt",
+      "Cannelle"
+    ]
+  },
+  "gateau_a_la_carotte": {
+    "nom": "Gâteau à la carotte",
+    "type": "dessert",
+    "etoiles": 4,
+    "ingredients": [
+      "Carotte",
+      "Blé",
+      "Oeuf",
+      "Canne à sucre"
+    ]
+  },
+  "gateau_a_la_foudre": {
+    "nom": "Gâteau à la foudre",
+    "type": "dessert",
+    "etoiles": 4,
+    "ingredients": [
+      "Blé",
+      "Oeufs d'oiseau-pelle",
+      "Yaourt",
+      "Épice foudroyante"
+    ]
+  },
+  "gateau_a_la_muscade": {
+    "nom": "Gâteau à la muscade",
+    "type": "dessert",
+    "etoiles": 4,
+    "ingredients": [
+      "Blé",
+      "Oeufs d'oiseau-pelle",
+      "Yaourt",
+      "Noix de muscade"
+    ]
+  },
+  "gateau_a_la_noix_de_coco": {
+    "nom": "Gâteau à la noix de coco",
+    "type": "dessert",
+    "etoiles": 4,
+    "ingredients": [
+      "Noix de coco",
+      "Blé",
+      "Oeuf",
+      "Canne à sucre"
+    ]
+  },
+  "gateaux_au_pain_d_epices_d_halloween": {
+    "nom": "Gâteaux au pain d'épices d'Halloween",
+    "type": "dessert",
+    "etoiles": 3,
+    "ingredients": [
+      "Blé",
+      "Citrouille",
+      "Gingembre"
+    ]
+  },
+  "gateaux_au_pain_d_epices_de_minnie": {
+    "nom": "Gâteaux au pain d'épices de Minnie",
+    "type": "dessert",
+    "etoiles": 2,
+    "ingredients": [
+      "Blé",
+      "Gingembre"
+    ]
+  },
+  "hamburger_au_fromage": {
+    "nom": "Hamburger au fromage",
+    "type": "plat principal",
+    "etoiles": 5,
+    "ingredients": [
+      "Gibier",
+      "Blé",
+      "Légumes",
+      "Fromage"
+    ]
+  },
+  "hamburger_royal": {
+    "nom": "Hamburger royal",
+    "type": "plat principal",
+    "etoiles": 5,
+    "ingredients": [
+      "Gibier",
+      "Porc",
+      "Blé",
+      "Fromage",
+      "Légumes"
+    ]
+  },
+  "hamburger_ecarlate": {
+    "nom": "Hamburger écarlate",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Blé",
+      "Légumes",
+      "Lentilles corail"
+    ]
+  },
+  "hareng_doux": {
+    "nom": "Hareng doux",
+    "type": "hors d'oeuvre",
+    "etoiles": 2,
+    "ingredients": [
+      "Hareng",
+      "Oignon"
+    ]
+  },
+  "hareng_saumure": {
+    "nom": "Hareng saumuré",
+    "type": "hors d'oeuvre",
+    "etoiles": 4,
+    "ingredients": [
+      "Hareng",
+      "Citron",
+      "Oignon",
+      "Épices"
+    ]
+  },
+  "harengs_saumure_d_arendelle": {
+    "nom": "Harengs saumuré d'Arendelle",
+    "type": "hors d'oeuvre",
+    "etoiles": 5,
+    "ingredients": [
+      "Hareng",
+      "Citron",
+      "Oignon",
+      "Ail",
+      "Épices"
+    ]
+  },
+  "harengs_saumures_d_arendelle": {
+    "nom": "Harengs saumurés d'Arendelle",
+    "type": "hors d'oeuvre",
+    "etoiles": 4,
+    "ingredients": [
+      "Hareng",
+      "Citron",
+      "Oignon",
+      "Ail",
+      "Épices"
+    ]
+  },
+  "haricots_en_sauce": {
+    "nom": "Haricots en sauce",
+    "type": "plat principal",
+    "etoiles": 2,
+    "ingredients": [
+      "Haricots",
+      "Porc"
+    ]
+  },
+  "haricots_verts_au_four": {
+    "nom": "Haricots verts au four",
+    "type": "plat principal",
+    "etoiles": 2,
+    "ingredients": [
+      "Haricots verts",
+      "Ail"
+    ]
+  },
+  "haricots_verts_saumures": {
+    "nom": "Haricots verts saumurés",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Haricots verts",
+      "Cristal de sel",
+      "Épices et herbes"
+    ]
+  },
+  "hors_d_oeuvre": {
+    "nom": "Hors-d'oeuvre",
+    "type": "plat principal",
+    "etoiles": 1,
+    "ingredients": [
+      "Épices"
+    ]
+  },
+  "hors_d_oeuvre_de_fruits_de_mer": {
+    "nom": "Hors-d'oeuvre de fruits de mer",
+    "type": "hors d'oeuvre",
+    "etoiles": 1,
+    "ingredients": [
+      "Fruits de mer"
+    ]
+  },
+  "jus_de_palourde": {
+    "nom": "Jus de palourde",
+    "type": "hors d'oeuvre",
+    "etoiles": 2,
+    "ingredients": [
+      "Tomate",
+      "Palourde"
+    ]
+  },
+  "kebab_de_carpe_koi_grillee": {
+    "nom": "Kebab de carpe koï grillée",
+    "type": "plat principal",
+    "etoiles": 5,
+    "ingredients": [
+      "Carpe koï",
+      "Blé",
+      "Concombre",
+      "Olives",
+      "Épices et herbes"
+    ]
+  },
+  "kouign_amann": {
+    "nom": "Kouign-Amann",
+    "type": "dessert",
+    "etoiles": 4,
+    "ingredients": [
+      "Beurre",
+      "Blé",
+      "Agave"
+    ]
+  },
+  "larves_gastronomiques": {
+    "nom": "Larves gastronomiques",
+    "type": "dessert",
+    "etoiles": 3,
+    "ingredients": [
+      "Escargot de mer",
+      "Ver des sables",
+      "Scorpion"
+    ]
+  },
+  "latkes": {
+    "nom": "Latkes",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Oignon",
+      "Pomme de terre",
+      "Colza",
+      "Oeuf"
+    ]
+  },
+  "latte_royal": {
+    "nom": "Latte royal",
+    "type": "hors d'oeuvre",
+    "etoiles": 2,
+    "ingredients": [
+      "Lait",
+      "Majesthé"
+    ]
+  },
+  "linguini_au_pesto": {
+    "nom": "Linguini au pesto",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Blé",
+      "Beurre",
+      "Ail",
+      "Origan"
+    ]
+  },
+  "loup_de_mer_en_croute_de_sel": {
+    "nom": "Loup de mer en croûte de sel",
+    "type": "plat principal",
+    "etoiles": 2,
+    "ingredients": [
+      "Loup de mer",
+      "Cristal de sel"
+    ]
+  },
+  "legumes_delicieux": {
+    "nom": "Légumes délicieux",
+    "type": "plat principal",
+    "etoiles": 2,
+    "ingredients": [
+      "Légumes",
+      "Épices"
+    ]
+  },
+  "legumes_grilles": {
+    "nom": "Légumes grillés",
+    "type": "hors d'oeuvre",
+    "etoiles": 1,
+    "ingredients": [
+      "Légumes"
+    ]
+  },
+  "maamouls": {
+    "nom": "Maamouls",
+    "type": "dessert",
+    "etoiles": 3,
+    "ingredients": [
+      "Blé",
+      "Dattes",
+      "Amandes"
+    ]
+  },
+  "macarons_au_caramel": {
+    "nom": "Macarons au caramel",
+    "type": "dessert",
+    "etoiles": 3,
+    "ingredients": [
+      "Amandes",
+      "Oeuf",
+      "Agave"
+    ]
+  },
+  "macarons_au_chocolat": {
+    "nom": "Macarons au chocolat",
+    "type": "dessert",
+    "etoiles": 3,
+    "ingredients": [
+      "Amandes",
+      "Oeuf",
+      "Fève de cacao"
+    ]
+  },
+  "macarons_francais": {
+    "nom": "Macarons Français",
+    "type": "dessert",
+    "etoiles": 2,
+    "ingredients": [
+      "Amandes",
+      "Oeuf"
+    ]
+  },
+  "macarons_a_la_confiture": {
+    "nom": "Macarons à la confiture",
+    "type": "dessert",
+    "etoiles": 3,
+    "ingredients": [
+      "Amandes",
+      "Oeuf",
+      "Fruits"
+    ]
+  },
+  "macarons_a_la_vanille": {
+    "nom": "Macarons à la vanille",
+    "type": "dessert",
+    "etoiles": 3,
+    "ingredients": [
+      "Amandes",
+      "Oeuf",
+      "Vanille"
+    ]
+  },
+  "macarons_epices": {
+    "nom": "Macarons épicés",
+    "type": "dessert",
+    "etoiles": 3,
+    "ingredients": [
+      "Amandes",
+      "Oeuf",
+      "Piment"
+    ]
+  },
+  "maison_en_pain_d_epices": {
+    "nom": "Maison en pain d'épices",
+    "type": "dessert",
+    "etoiles": 5,
+    "ingredients": [
+      "Blé",
+      "Gingembre",
+      "Canne à sucre",
+      "Vanille",
+      "Oeuf"
+    ]
+  },
+  "maki": {
+    "nom": "Maki",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Poissons",
+      "Algues",
+      "Riz"
+    ]
+  },
+  "maki_au_concombre": {
+    "nom": "Maki au concombre",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Algues",
+      "Concombre",
+      "Riz"
+    ]
+  },
+  "maki_au_saumon": {
+    "nom": "Maki au saumon",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Algues",
+      "Saumon",
+      "Riz"
+    ]
+  },
+  "maki_au_thon": {
+    "nom": "Maki au thon",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Thon",
+      "Soja",
+      "Algues",
+      "Riz"
+    ]
+  },
+  "maki_rouleau_du_dragon": {
+    "nom": "Maki rouleau du dragon",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Anguille électrique",
+      "Riz",
+      "Algues",
+      "Légumes"
+    ]
+  },
+  "makrout": {
+    "nom": "Makrout",
+    "type": "dessert",
+    "etoiles": 4,
+    "ingredients": [
+      "Blé",
+      "Colza",
+      "Dattes",
+      "Cannelle"
+    ]
+  },
+  "meilleur_poisson_de_tous_les_temps": {
+    "nom": "Meilleur poisson de tous les temps",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Escargot de mer",
+      "Céleri",
+      "Cumin",
+      "Poisson-robot"
+    ]
+  },
+  "milk_shake": {
+    "nom": "Milk shake",
+    "type": "dessert",
+    "etoiles": 1,
+    "ingredients": [
+      "Laitages"
+    ]
+  },
+  "milk_shake_aux_fruits": {
+    "nom": "Milk-shake aux fruits",
+    "type": "dessert",
+    "etoiles": 3,
+    "ingredients": [
+      "Glace pilée",
+      "Lait",
+      "Fruits"
+    ]
+  },
+  "milk_shake_stellaire": {
+    "nom": "Milk-shake stellaire",
+    "type": "dessert",
+    "etoiles": 3,
+    "ingredients": [
+      "Glace pilée",
+      "Lait",
+      "Figues cosmiques"
+    ]
+  },
+  "mille_aiguilles": {
+    "nom": "Mille aiguilles",
+    "type": "hors d'oeuvre",
+    "etoiles": 3,
+    "ingredients": [
+      "Jolie étoile de mer rose",
+      "Étoile de mer bleue brillante",
+      "Cactibaies"
+    ]
+  },
+  "mocha": {
+    "nom": "Mocha",
+    "type": "hors d'oeuvre",
+    "etoiles": 3,
+    "ingredients": [
+      "Grain de café",
+      "Lait",
+      "Fève de cacao"
+    ]
+  },
+  "moqueca_du_pirarucu": {
+    "nom": "Moqueca du Pirarucu",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Légumes",
+      "Légumes",
+      "Noix de coco",
+      "Pirarucu"
+    ]
+  },
+  "morue_au_four_croustillante_au_fromage": {
+    "nom": "Morue au four croustillante au fromage",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Morue",
+      "Blé",
+      "Fromage"
+    ]
+  },
+  "morue_croustillante_au_four": {
+    "nom": "Morue croustillante au four",
+    "type": "plat principal",
+    "etoiles": 2,
+    "ingredients": [
+      "Morue",
+      "Blé"
+    ]
+  },
+  "moules_a_la_vapeur": {
+    "nom": "Moules à la vapeur",
+    "type": "plat principal",
+    "etoiles": 1,
+    "ingredients": [
+      "Moule"
+    ]
+  },
+  "moules_a_la_vapeur_a_l_ail": {
+    "nom": "Moules à la vapeur à l'ail",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Moule",
+      "Oignon",
+      "Ail"
+    ]
+  },
+  "muffin_aux_bananes_sans_sucre": {
+    "nom": "Muffin aux bananes sans sucre",
+    "type": "dessert",
+    "etoiles": 2,
+    "ingredients": [
+      "Blé",
+      "Banane"
+    ]
+  },
+  "muffin_aux_fruits_sans_sucre": {
+    "nom": "Muffin aux fruits sans sucre",
+    "type": "dessert",
+    "etoiles": 2,
+    "ingredients": [
+      "Blé",
+      "Fruits"
+    ]
+  },
+  "muffin_aux_myrtilles_sans_sucre": {
+    "nom": "Muffin aux myrtilles sans sucre",
+    "type": "dessert",
+    "etoiles": 2,
+    "ingredients": [
+      "Blé",
+      "Myrtille"
+    ]
+  },
+  "muffin_explosion_de_fruits_sans_sucre": {
+    "nom": "Muffin explosion de fruits sans sucre",
+    "type": "dessert",
+    "etoiles": 4,
+    "ingredients": [
+      "Blé",
+      "Fruits",
+      "Fruits",
+      "Agave"
+    ]
+  },
+  "melange_du_bayou": {
+    "nom": "Mélange du bayou",
+    "type": "plat principal",
+    "etoiles": 5,
+    "ingredients": [
+      "Riz",
+      "Céleri",
+      "Beurre",
+      "Épices",
+      "Crevette prismatique"
+    ]
+  },
+  "nachos": {
+    "nom": "Nachos",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Piment",
+      "Maïs",
+      "Fromage"
+    ]
+  },
+  "oeuf_brouille": {
+    "nom": "Oeuf brouillé",
+    "type": "plat principal",
+    "etoiles": 2,
+    "ingredients": [
+      "Oeuf",
+      "Fromage"
+    ]
+  },
+  "oeuf_d_oiseau_pelle_benedicte": {
+    "nom": "Oeuf d'oiseau-pelle Bénédicte",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Grain élyséen",
+      "Oeufs d'oiseau-pelle",
+      "Fraises spirales",
+      "Cristal de sel"
+    ]
+  },
+  "oeufs_durs": {
+    "nom": "Oeufs durs",
+    "type": "hors d'oeuvre",
+    "etoiles": 1,
+    "ingredients": [
+      "Oeuf"
+    ]
+  },
+  "oeufs_mimosas_de_printemps": {
+    "nom": "Oeufs mimosas de printemps",
+    "type": "dessert",
+    "etoiles": 4,
+    "ingredients": [
+      "L-OEUF-gumes de printemps",
+      "Oeuf printanier sauvage",
+      "Fruit délici-oeuf",
+      "Basilic"
+    ]
+  },
+  "omelette": {
+    "nom": "Omelette",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Oeuf",
+      "Fromage",
+      "Lait"
+    ]
+  },
+  "omelette_au_basilic": {
+    "nom": "Omelette au basilic",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Oeuf",
+      "Fromage",
+      "Lait",
+      "Basilic"
+    ]
+  },
+  "orge_et_legumes_au_four": {
+    "nom": "Orge et légumes au four",
+    "type": "plat principal",
+    "etoiles": 5,
+    "ingredients": [
+      "Orge",
+      "Chou de Bruxelles",
+      "Oignon",
+      "Feta feuillet",
+      "Légumes"
+    ]
+  },
+  "ormeaux_braises": {
+    "nom": "Ormeaux braisés",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Huître",
+      "Escargot de mer",
+      "Champignon",
+      "Ail"
+    ]
+  },
+  "osso_buco_osseux": {
+    "nom": "Osso buco osseux",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Poisson-squelette",
+      "Céleri",
+      "Légumes",
+      "Raisin"
+    ]
+  },
+  "pain_aux_graines_de_chia": {
+    "nom": "Pain aux graines de chia",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Blé",
+      "Graines de chia",
+      "Oeufs d'oiseau-pelle"
+    ]
+  },
+  "pain_aux_raisins": {
+    "nom": "Pain aux raisins",
+    "type": "dessert",
+    "etoiles": 4,
+    "ingredients": [
+      "Blé",
+      "Beurre",
+      "Fruits"
+    ]
+  },
+  "pain_sans_levure_et_feta": {
+    "nom": "Pain sans levure et feta",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Blé",
+      "Feta feuillet",
+      "Cristal de sel"
+    ]
+  },
+  "pancakes_au_caviar_vert_et_aux_graines_de_chia": {
+    "nom": "Pancakes au caviar vert et aux graines de chia",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Blé",
+      "Graines de chia",
+      "Oeufs d'oiseau-pelle",
+      "Sea Grapes"
+    ]
+  },
+  "pancakes_au_kaki_et_aux_graines_de_chia": {
+    "nom": "Pancakes au kaki et aux graines de chia",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Blé",
+      "Graines de chia",
+      "Oeufs d'oiseau-pelle",
+      "Kaki"
+    ]
+  },
+  "pancakes_aux_fraises_spirales_et_aux_graines_de_chia": {
+    "nom": "Pancakes aux fraises spirales et aux graines de chia",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Blé",
+      "Graines de chia",
+      "Oeufs d'oiseau-pelle",
+      "Fraises spirales"
+    ]
+  },
+  "pancakes_aux_physalis_et_aux_graines_de_chia": {
+    "nom": "Pancakes aux physalis et aux graines de chia",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Blé",
+      "Graines de chia",
+      "Oeufs d'oiseau-pelle",
+      "Physalis"
+    ]
+  },
+  "parmentier_de_poisson": {
+    "nom": "Parmentier de poisson",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Poissons",
+      "Blé",
+      "Beurre"
+    ]
+  },
+  "pasteis_de_nata": {
+    "nom": "Pastéis de Nata",
+    "type": "dessert",
+    "etoiles": 4,
+    "ingredients": [
+      "Maïs",
+      "Oeuf",
+      "Lait",
+      "Vanille"
+    ]
+  },
+  "paella_de_cavalos": {
+    "nom": "Paëlla de cavalos",
+    "type": "plat principal",
+    "etoiles": 5,
+    "ingredients": [
+      "Cavalos",
+      "Crevette",
+      "Fruits de mer",
+      "Tomate",
+      "Riz"
+    ]
+  },
+  "perche_frite_simple": {
+    "nom": "Perche frite simple",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Perche",
+      "Blé",
+      "Beurre"
+    ]
+  },
+  "pizza": {
+    "nom": "Pizza",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Tomate",
+      "Fromage",
+      "Blé"
+    ]
+  },
+  "pizza_aux_champignons": {
+    "nom": "Pizza aux champignons",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Tomate",
+      "Fromage",
+      "Blé",
+      "Champignon"
+    ]
+  },
+  "pizza_d_argos": {
+    "nom": "Pizza d'Argos",
+    "type": "plat principal",
+    "etoiles": 5,
+    "ingredients": [
+      "Grain élyséen",
+      "Oignon",
+      "Feta feuillet",
+      "Olives",
+      "Légumes"
+    ]
+  },
+  "pizza_grecque": {
+    "nom": "Pizza grecque",
+    "type": "plat principal",
+    "etoiles": 5,
+    "ingredients": [
+      "Tomate",
+      "Fromage",
+      "Blé",
+      "Oignon",
+      "Épices et herbes"
+    ]
+  },
+  "pizza_hawaienne": {
+    "nom": "Pizza Hawaïenne",
+    "type": "plat principal",
+    "etoiles": 5,
+    "ingredients": [
+      "Porc",
+      "Blé",
+      "Tomate",
+      "Fromage",
+      "Ananas"
+    ]
+  },
+  "pizza_margherita": {
+    "nom": "Pizza margherita",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Tomate",
+      "Fromage",
+      "Blé",
+      "Épices et herbes"
+    ]
+  },
+  "pizza_vegetarienne": {
+    "nom": "Pizza végétarienne",
+    "type": "plat principal",
+    "etoiles": 5,
+    "ingredients": [
+      "Tomate",
+      "Fromage",
+      "Blé",
+      "Légumes",
+      "Légumes"
+    ]
+  },
+  "plat_de_legumes_grilles": {
+    "nom": "Plat de légumes grillés",
+    "type": "hors d'oeuvre",
+    "etoiles": 3,
+    "ingredients": [
+      "Légumes",
+      "Légumes",
+      "Légumes"
+    ]
+  },
+  "plateau_d_huitres": {
+    "nom": "Plateau d'huîtres",
+    "type": "hors d'oeuvre",
+    "etoiles": 2,
+    "ingredients": [
+      "Huître",
+      "Citron"
+    ]
+  },
+  "plateau_de_fromages": {
+    "nom": "Plateau de fromages",
+    "type": "hors d'oeuvre",
+    "etoiles": 1,
+    "ingredients": [
+      "Fromage"
+    ]
+  },
+  "plateau_de_fruits_de_mer": {
+    "nom": "Plateau de fruits de mer",
+    "type": "hors d'oeuvre",
+    "etoiles": 2,
+    "ingredients": [
+      "Fruits de mer",
+      "Fruits de mer"
+    ]
+  },
+  "poisson_au_four_a_la_grecque": {
+    "nom": "Poisson au four à la grecque",
+    "type": "plat principal",
+    "etoiles": 5,
+    "ingredients": [
+      "Périophtalme stygien",
+      "Grain élyséen",
+      "Olives",
+      "Cristal de sel",
+      "Ambroisie"
+    ]
+  },
+  "poisson_creole": {
+    "nom": "Poisson créole",
+    "type": "plat principal",
+    "etoiles": 5,
+    "ingredients": [
+      "Tomate",
+      "Ail",
+      "Riz",
+      "Légumes",
+      "Poissons"
+    ]
+  },
+  "poisson_grille": {
+    "nom": "Poisson grillé",
+    "type": "plat principal",
+    "etoiles": 1,
+    "ingredients": [
+      "Poissons"
+    ]
+  },
+  "poisson_savoureux": {
+    "nom": "Poisson savoureux",
+    "type": "plat principal",
+    "etoiles": 2,
+    "ingredients": [
+      "Poissons",
+      "Citron"
+    ]
+  },
+  "pommes_au_caramel": {
+    "nom": "Pommes au caramel",
+    "type": "dessert",
+    "etoiles": 2,
+    "ingredients": [
+      "Canne à sucre",
+      "Pomme"
+    ]
+  },
+  "pommes_de_terre_a_la_grecque": {
+    "nom": "Pommes de terre à la grecque",
+    "type": "hors d'oeuvre",
+    "etoiles": 5,
+    "ingredients": [
+      "Pomme de terre",
+      "Fruits",
+      "Ail",
+      "Cristal de sel",
+      "Épices et herbes"
+    ]
+  },
+  "pop_corn": {
+    "nom": "Pop corn",
+    "type": "dessert",
+    "etoiles": 2,
+    "ingredients": [
+      "Maïs",
+      "Colza"
+    ]
+  },
+  "pop_corn_sucre": {
+    "nom": "Pop corn sucré",
+    "type": "dessert",
+    "etoiles": 3,
+    "ingredients": [
+      "Maïs",
+      "Colza",
+      "Agave"
+    ]
+  },
+  "porc_effiloche": {
+    "nom": "Porc effiloché",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Porc",
+      "Oignon",
+      "Tomate",
+      "Origan"
+    ]
+  },
+  "porcini_farci_au_courgerond": {
+    "nom": "Porcini farci au courgerond",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Porcinis",
+      "Courgerond",
+      "Poivre noir"
+    ]
+  },
+  "porcini_farcis_au_radicchio": {
+    "nom": "Porcini farcis au radicchio",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Porcinis",
+      "Radicchio",
+      "Poivre noir"
+    ]
+  },
+  "porcini_farcis_aux_choux_de_bruxelles": {
+    "nom": "Porcini farcis aux choux de Bruxelles",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Porcinis",
+      "Chou de Bruxelles",
+      "Poivre noir"
+    ]
+  },
+  "porcinis_sautes": {
+    "nom": "Porcinis sautés",
+    "type": "hors d'oeuvre",
+    "etoiles": 2,
+    "ingredients": [
+      "Porcinis",
+      "Ail"
+    ]
+  },
+  "porridge_au_ble": {
+    "nom": "Porridge au blé",
+    "type": "plat principal",
+    "etoiles": 2,
+    "ingredients": [
+      "Lait",
+      "Blé"
+    ]
+  },
+  "porridge_au_ble_et_aux_fruits": {
+    "nom": "Porridge au blé et aux fruits",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Lait",
+      "Blé",
+      "Fruits"
+    ]
+  },
+  "porridge_garni_au_caviar_vert": {
+    "nom": "Porridge garni au caviar vert",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Avoine",
+      "Sea Grapes",
+      "Ambroisie"
+    ]
+  },
+  "porridge_garni_au_melon_miel": {
+    "nom": "Porridge garni au melon miel",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Avoine",
+      "Melon miel",
+      "Ambroisie"
+    ]
+  },
+  "porridge_garni_aux_kakis": {
+    "nom": "Porridge garni aux kakis",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Avoine",
+      "Kaki",
+      "Ambroisie"
+    ]
+  },
+  "porridge_garni_a_la_pomme_d_or": {
+    "nom": "Porridge garni à la pomme d'or",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Avoine",
+      "Pomme d'or",
+      "Ambroisie"
+    ]
+  },
+  "porridge_garni_a_la_rhubarbe": {
+    "nom": "Porridge garni à la rhubarbe",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Avoine",
+      "Rhubarbe",
+      "Ambroisie"
+    ]
+  },
+  "porridge_ecossais": {
+    "nom": "Porridge écossais",
+    "type": "plat principal",
+    "etoiles": 2,
+    "ingredients": [
+      "Avoine",
+      "Fruits"
+    ]
+  },
+  "potage": {
+    "nom": "Potage",
+    "type": "hors d'oeuvre",
+    "etoiles": 3,
+    "ingredients": [
+      "Pomme de terre",
+      "Épices",
+      "Légumes"
+    ]
+  },
+  "potage_a_la_citrouille": {
+    "nom": "Potage à la citrouille",
+    "type": "hors d'oeuvre",
+    "etoiles": 4,
+    "ingredients": [
+      "Légumes",
+      "Lait",
+      "Gingembre",
+      "Citrouille"
+    ]
+  },
+  "potage_a_la_citrouille_dans_un_bol_de_pain": {
+    "nom": "Potage à la citrouille dans un bol de pain",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Lait",
+      "Citrouille",
+      "Poisson tigré",
+      "Blé khorasan féerique"
+    ]
+  },
+  "poulet_au_beurre": {
+    "nom": "Poulet au beurre",
+    "type": "plat principal",
+    "etoiles": 5,
+    "ingredients": [
+      "Volaille",
+      "Tomate",
+      "Beurre",
+      "Citron",
+      "Cumin"
+    ]
+  },
+  "poulet_tandoori": {
+    "nom": "Poulet tandoori",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Piment",
+      "Paprika",
+      "Volaille",
+      "Cumin"
+    ]
+  },
+  "poulet_epice": {
+    "nom": "Poulet épicé",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Volaille",
+      "Oignon",
+      "Ail",
+      "Épices"
+    ]
+  },
+  "pousses_de_bambou_braisees": {
+    "nom": "Pousses de bambou braisées",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Bambou",
+      "Colza",
+      "Soja",
+      "Gingembre"
+    ]
+  },
+  "poutine": {
+    "nom": "Poutine",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Colza",
+      "Pomme de terre",
+      "Fromage"
+    ]
+  },
+  "pupusas_revueltas": {
+    "nom": "Pupusas Revueltas",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Volaille",
+      "Maïs",
+      "Haricots"
+    ]
+  },
+  "puree": {
+    "nom": "Purée",
+    "type": "hors d'oeuvre",
+    "etoiles": 1,
+    "ingredients": [
+      "Pomme de terre"
+    ]
+  },
+  "pates": {
+    "nom": "Pâtes",
+    "type": "plat principal",
+    "etoiles": 2,
+    "ingredients": [
+      "Blé",
+      "Tomate"
+    ]
+  },
+  "pates_au_bernard_l_hermite": {
+    "nom": "Pâtes au bernard-l'hermite",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Bernard-l'hermite à chapeau de sorcier",
+      "Blé",
+      "Épices et herbes"
+    ]
+  },
+  "pates_au_fromage_classiques": {
+    "nom": "Pâtes au fromage classiques",
+    "type": "plat principal",
+    "etoiles": 2,
+    "ingredients": [
+      "Blé",
+      "Fromage"
+    ]
+  },
+  "pates_au_poisson": {
+    "nom": "Pâtes au poisson",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Poissons",
+      "Ail",
+      "Blé",
+      "Lait"
+    ]
+  },
+  "pates_aux_fruits_de_mer": {
+    "nom": "Pâtes aux fruits de mer",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Fruits de mer",
+      "Blé",
+      "Lait"
+    ]
+  },
+  "pates_aux_herbes": {
+    "nom": "Pâtes aux herbes",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Blé",
+      "Beurre",
+      "Épices"
+    ]
+  },
+  "pates_vegetariennes": {
+    "nom": "Pâtes végétariennes",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Tomate",
+      "Blé",
+      "Légumes"
+    ]
+  },
+  "petoncles_cremeux_a_l_ail": {
+    "nom": "Pétoncles crémeux à l'ail",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Pétoncle",
+      "Citron",
+      "Beurre",
+      "Ail"
+    ]
+  },
+  "quenelles_de_poisson_volant": {
+    "nom": "Quenelles de poisson volant",
+    "type": "plat principal",
+    "etoiles": 5,
+    "ingredients": [
+      "Poisson volant",
+      "Porcinis",
+      "Feta feuillet",
+      "Légumes",
+      "Laitages"
+    ]
+  },
+  "queue_de_chat_de_cheshire_dessert": {
+    "nom": "Queue de Chat de Cheshire (Dessert)",
+    "type": "dessert",
+    "etoiles": 4,
+    "ingredients": [
+      "Fève de cacao",
+      "Oeuf",
+      "Blé",
+      "Canne à sucre"
+    ]
+  },
+  "racinette": {
+    "nom": "Racinette",
+    "type": "dessert",
+    "etoiles": 3,
+    "ingredients": [
+      "Gingembre",
+      "Canne à sucre",
+      "Vanille"
+    ]
+  },
+  "raddichio_saumure": {
+    "nom": "Raddichio saumuré",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Radicchio",
+      "Cristal de sel",
+      "Épices et herbes"
+    ]
+  },
+  "radis_saumures": {
+    "nom": "Radis saumurés",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Radis",
+      "Cristal de sel",
+      "Épices et herbes"
+    ]
+  },
+  "ragout_de_la_voie_lactee": {
+    "nom": "Ragoût de la Voie Lactée",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Truite arc-en-ciel",
+      "Lait",
+      "Navet",
+      "Figues cosmiques"
+    ]
+  },
+  "ragout_de_sable": {
+    "nom": "Ragoût de sable",
+    "type": "plat principal",
+    "etoiles": 5,
+    "ingredients": [
+      "Poisson des dunes",
+      "Poisson des sables",
+      "Ver des sables",
+      "Légumes",
+      "Épices"
+    ]
+  },
+  "ragout_vegetarien": {
+    "nom": "Ragoût végétarien",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Pomme de terre",
+      "Carotte",
+      "Oignon"
+    ]
+  },
+  "ramen": {
+    "nom": "Ramen",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Porc",
+      "Blé",
+      "Oeuf"
+    ]
+  },
+  "ratatouille": {
+    "nom": "Ratatouille",
+    "type": "plat principal",
+    "etoiles": 5,
+    "ingredients": [
+      "Tomate",
+      "Aubergine",
+      "Courgette",
+      "Oignon",
+      "Épices et herbes"
+    ]
+  },
+  "red_velvet": {
+    "nom": "Red Velvet",
+    "type": "dessert",
+    "etoiles": 5,
+    "ingredients": [
+      "Blé",
+      "Fromage",
+      "Oeuf",
+      "Fève de cacao",
+      "Vanille"
+    ]
+  },
+  "risotto_au_poisson": {
+    "nom": "Risotto au poisson",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Poissons",
+      "Riz",
+      "Beurre"
+    ]
+  },
+  "risotto_aux_moules": {
+    "nom": "Risotto aux moules",
+    "type": "plat principal",
+    "etoiles": 5,
+    "ingredients": [
+      "Moule",
+      "Riz",
+      "Olives",
+      "Ail",
+      "Épices et herbes"
+    ]
+  },
+  "riz_au_lait": {
+    "nom": "Riz au lait",
+    "type": "dessert",
+    "etoiles": 3,
+    "ingredients": [
+      "Avoine",
+      "Riz",
+      "Vanille"
+    ]
+  },
+  "rouleau_rhapsodie": {
+    "nom": "Rouleau Rhapsodie",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Riz",
+      "Algues",
+      "Légumes",
+      "Yuccarina"
+    ]
+  },
+  "roule_a_la_cannelle": {
+    "nom": "Roulé à la cannelle",
+    "type": "dessert",
+    "etoiles": 4,
+    "ingredients": [
+      "Blé",
+      "Beurre",
+      "Oeuf",
+      "Cannelle"
+    ]
+  },
+  "reve_petillant": {
+    "nom": "Rêve pétillant",
+    "type": "hors d'oeuvre",
+    "etoiles": 4,
+    "ingredients": [
+      "Fruit de Dreamlight",
+      "Canne à sucre",
+      "Blé",
+      "Glace pilée"
+    ]
+  },
+  "roti": {
+    "nom": "Rôti",
+    "type": "plat principal",
+    "etoiles": 1,
+    "ingredients": [
+      "Protéines"
+    ]
+  },
+  "s_mores": {
+    "nom": "S'mores",
+    "type": "dessert",
+    "etoiles": 4,
+    "ingredients": [
+      "Guimauve rose",
+      "Guimauve bleue",
+      "Blé"
+    ]
+  },
+  "salade": {
+    "nom": "Salade",
+    "type": "hors d'oeuvre",
+    "etoiles": 1,
+    "ingredients": [
+      "Laitue"
+    ]
+  },
+  "salade_basilic_et_fruits_rouges": {
+    "nom": "Salade basilic et fruits rouges",
+    "type": "dessert",
+    "etoiles": 3,
+    "ingredients": [
+      "Myrtille",
+      "Basilic",
+      "Fraise"
+    ]
+  },
+  "salade_bouquet_ecarlate": {
+    "nom": "Salade bouquet écarlate",
+    "type": "hors d'oeuvre",
+    "etoiles": 1,
+    "ingredients": [
+      "Chou frisé écarlate"
+    ]
+  },
+  "salade_caprese": {
+    "nom": "Salade caprese",
+    "type": "plat principal",
+    "etoiles": 5,
+    "ingredients": [
+      "Feta feuillet",
+      "Olives",
+      "Cristal de sel",
+      "Légumes",
+      "Épices et herbes"
+    ]
+  },
+  "salade_copieuse": {
+    "nom": "Salade copieuse",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Laitue",
+      "Légumes"
+    ]
+  },
+  "salade_d_algues": {
+    "nom": "Salade d'algues",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Radis",
+      "Sea Grapes",
+      "Poivre noir",
+      "Légumes"
+    ]
+  },
+  "salade_d_orge": {
+    "nom": "Salade d'orge",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Orge",
+      "Chou-fleur",
+      "Radis",
+      "Épices et herbes"
+    ]
+  },
+  "salade_de_boulghour": {
+    "nom": "Salade de boulghour",
+    "type": "hors d'oeuvre",
+    "etoiles": 5,
+    "ingredients": [
+      "Blé",
+      "Concombre",
+      "Tomate",
+      "Menthe",
+      "Épices"
+    ]
+  },
+  "salade_de_chou": {
+    "nom": "Salade de chou",
+    "type": "hors d'oeuvre",
+    "etoiles": 2,
+    "ingredients": [
+      "Carotte",
+      "Chou"
+    ]
+  },
+  "salade_de_fruits": {
+    "nom": "Salade de fruits",
+    "type": "dessert",
+    "etoiles": 1,
+    "ingredients": [
+      "Fruits"
+    ]
+  },
+  "salade_de_fruits_de_mer": {
+    "nom": "Salade de fruits de mer",
+    "type": "plat principal",
+    "etoiles": 2,
+    "ingredients": [
+      "Laitue",
+      "Fruits de mer"
+    ]
+  },
+  "salade_de_fruits_rouges": {
+    "nom": "Salade de fruits rouges",
+    "type": "dessert",
+    "etoiles": 3,
+    "ingredients": [
+      "Framboise",
+      "Groseille",
+      "Myrtille"
+    ]
+  },
+  "salade_de_poisson": {
+    "nom": "Salade de poisson",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Laitue",
+      "Poissons",
+      "Citron"
+    ]
+  },
+  "salade_de_radicchio": {
+    "nom": "Salade de radicchio",
+    "type": "hors d'oeuvre",
+    "etoiles": 4,
+    "ingredients": [
+      "Chou-fleur",
+      "Haricots verts",
+      "Radicchio",
+      "Radis"
+    ]
+  },
+  "salade_delicieuse": {
+    "nom": "Salade délicieuse",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Laitue",
+      "Concombre",
+      "Légumes",
+      "Épices et herbes"
+    ]
+  },
+  "salade_grecque": {
+    "nom": "Salade grecque",
+    "type": "plat principal",
+    "etoiles": 5,
+    "ingredients": [
+      "Concombre",
+      "Radis",
+      "Feta feuillet",
+      "Olives",
+      "Légumes"
+    ]
+  },
+  "salade_mediterraneenne": {
+    "nom": "Salade méditerranéenne",
+    "type": "plat principal",
+    "etoiles": 5,
+    "ingredients": [
+      "Laitue",
+      "Tomate",
+      "Oignon",
+      "Concombre",
+      "Épices et herbes"
+    ]
+  },
+  "salade_ranch": {
+    "nom": "Salade ranch",
+    "type": "plat principal",
+    "etoiles": 5,
+    "ingredients": [
+      "Laitue",
+      "Tomate",
+      "Oignon",
+      "Poivron",
+      "Maïs"
+    ]
+  },
+  "salade_verte": {
+    "nom": "Salade verte",
+    "type": "hors d'oeuvre",
+    "etoiles": 2,
+    "ingredients": [
+      "Légumes",
+      "Laitue"
+    ]
+  },
+  "salade_a_la_carpe": {
+    "nom": "Salade à la carpe",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Carpe",
+      "Citron",
+      "Laitue"
+    ]
+  },
+  "salade_electrique_au_radiccio_et_au_kaki": {
+    "nom": "Salade électrique au radiccio et au kaki",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Radicchio",
+      "Kaki",
+      "Épice foudroyante"
+    ]
+  },
+  "sandwich_au_beurre_de_cacahuete": {
+    "nom": "Sandwich au beurre de cacahuète",
+    "type": "plat principal",
+    "etoiles": 2,
+    "ingredients": [
+      "Cacahuète",
+      "Blé"
+    ]
+  },
+  "sandwich_au_homard": {
+    "nom": "Sandwich au homard",
+    "type": "plat principal",
+    "etoiles": 5,
+    "ingredients": [
+      "Homard",
+      "Blé",
+      "Citron",
+      "Beurre",
+      "Ail"
+    ]
+  },
+  "sandwich_au_poisson": {
+    "nom": "Sandwich au poisson",
+    "type": "plat principal",
+    "etoiles": 2,
+    "ingredients": [
+      "Poissons",
+      "Blé"
+    ]
+  },
+  "sandwich_a_la_confiture_de_framboise": {
+    "nom": "Sandwich à la confiture de framboise",
+    "type": "dessert",
+    "etoiles": 2,
+    "ingredients": [
+      "Blé",
+      "Framboise"
+    ]
+  },
+  "sandwichs_pour_le_the": {
+    "nom": "Sandwichs pour le thé",
+    "type": "hors d'oeuvre",
+    "etoiles": 5,
+    "ingredients": [
+      "Blé",
+      "Maïs",
+      "Cerise",
+      "Poissons"
+    ]
+  },
+  "sashimi_de_calamar": {
+    "nom": "Sashimi de calamar",
+    "type": "plat principal",
+    "etoiles": 1,
+    "ingredients": [
+      "Calamar"
+    ]
+  },
+  "sashimi_de_carpe_koi": {
+    "nom": "Sashimi de carpe koï",
+    "type": "plat principal",
+    "etoiles": 1,
+    "ingredients": [
+      "Carpe koï"
+    ]
+  },
+  "sashimi_de_lamproie": {
+    "nom": "Sashimi de lamproie",
+    "type": "plat principal",
+    "etoiles": 1,
+    "ingredients": [
+      "Lamproie"
+    ]
+  },
+  "sashimi_de_thon": {
+    "nom": "Sashimi de thon",
+    "type": "plat principal",
+    "etoiles": 1,
+    "ingredients": [
+      "Thon"
+    ]
+  },
+  "saucisse_de_francfort_classique": {
+    "nom": "Saucisse de Francfort classique",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Porc",
+      "Volaille",
+      "Gibier",
+      "Blé"
+    ]
+  },
+  "saumon_glace_au_cidre": {
+    "nom": "Saumon glacé au cidre",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Saumon",
+      "Canne à sucre",
+      "Pomme"
+    ]
+  },
+  "saumon_teriyaki": {
+    "nom": "Saumon teriyaki",
+    "type": "plat principal",
+    "etoiles": 5,
+    "ingredients": [
+      "Saumon",
+      "Canne à sucre",
+      "Soja",
+      "Riz",
+      "Gingembre"
+    ]
+  },
+  "saute_aigre_doux": {
+    "nom": "Sauté aigre-doux",
+    "type": "plat principal",
+    "etoiles": 5,
+    "ingredients": [
+      "Colza",
+      "Brocoli",
+      "Volaille",
+      "Fantasmangue",
+      "Ananas"
+    ]
+  },
+  "saute_de_champignons": {
+    "nom": "Sauté de champignons",
+    "type": "hors d'oeuvre",
+    "etoiles": 2,
+    "ingredients": [
+      "Champignon",
+      "Beurre"
+    ]
+  },
+  "schnitzel": {
+    "nom": "Schnitzel",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Volaille",
+      "Blé",
+      "Colza"
+    ]
+  },
+  "sculpture_en_sucre_de_betterave": {
+    "nom": "Sculpture en sucre de betterave",
+    "type": "dessert",
+    "etoiles": 2,
+    "ingredients": [
+      "Betterave",
+      "Canne à sucre"
+    ]
+  },
+  "shawarma": {
+    "nom": "Shawarma",
+    "type": "plat principal",
+    "etoiles": 5,
+    "ingredients": [
+      "Gibier",
+      "Riz",
+      "Citron",
+      "Cannelle",
+      "Ail"
+    ]
+  },
+  "shish_taouk": {
+    "nom": "Shish Taouk",
+    "type": "plat principal",
+    "etoiles": 5,
+    "ingredients": [
+      "Volaille",
+      "Riz",
+      "Citron",
+      "Origan",
+      "Ail"
+    ]
+  },
+  "smoothie_au_melon_miel": {
+    "nom": "Smoothie au melon miel",
+    "type": "hors d'oeuvre",
+    "etoiles": 2,
+    "ingredients": [
+      "Yaourt",
+      "Melon miel"
+    ]
+  },
+  "smoothie_aux_fraises_spirales": {
+    "nom": "Smoothie aux fraises spirales",
+    "type": "hors d'oeuvre",
+    "etoiles": 2,
+    "ingredients": [
+      "Yaourt",
+      "Fraises spirales"
+    ]
+  },
+  "smoothie_aux_kakis": {
+    "nom": "Smoothie aux kakis",
+    "type": "hors d'oeuvre",
+    "etoiles": 2,
+    "ingredients": [
+      "Yaourt",
+      "Kaki"
+    ]
+  },
+  "smoothie_aux_physalis": {
+    "nom": "Smoothie aux physalis",
+    "type": "hors d'oeuvre",
+    "etoiles": 2,
+    "ingredients": [
+      "Yaourt",
+      "Physalis"
+    ]
+  },
+  "smoothie_aux_pommes_d_or": {
+    "nom": "Smoothie aux pommes d'or",
+    "type": "hors d'oeuvre",
+    "etoiles": 2,
+    "ingredients": [
+      "Yaourt",
+      "Pomme d'or"
+    ]
+  },
+  "smoothie_a_l_ambroisie": {
+    "nom": "Smoothie à l'ambroisie",
+    "type": "hors d'oeuvre",
+    "etoiles": 2,
+    "ingredients": [
+      "Yaourt",
+      "Ambroisie"
+    ]
+  },
+  "soda_au_nectar_petillant": {
+    "nom": "Soda au nectar pétillant",
+    "type": "hors d'oeuvre",
+    "etoiles": 2,
+    "ingredients": [
+      "Carambole",
+      "Glace pilée"
+    ]
+  },
+  "sole_meuniere": {
+    "nom": "Sole meunière",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Sole",
+      "Blé",
+      "Beurre",
+      "Citron"
+    ]
+  },
+  "sorbet_au_citron": {
+    "nom": "Sorbet au citron",
+    "type": "dessert",
+    "etoiles": 2,
+    "ingredients": [
+      "Glace pilée",
+      "Citron"
+    ]
+  },
+  "sorbet_aux_fruits": {
+    "nom": "Sorbet aux fruits",
+    "type": "dessert",
+    "etoiles": 2,
+    "ingredients": [
+      "Glace pilée",
+      "Fruits"
+    ]
+  },
+  "sorbet_aux_fruits_rouges": {
+    "nom": "Sorbet aux fruits rouges",
+    "type": "dessert",
+    "etoiles": 4,
+    "ingredients": [
+      "Glace pilée",
+      "Framboise",
+      "Groseille",
+      "Canne à sucre"
+    ]
+  },
+  "sorbet_a_la_menthe": {
+    "nom": "Sorbet à la menthe",
+    "type": "dessert",
+    "etoiles": 2,
+    "ingredients": [
+      "Glace pilée",
+      "Menthe"
+    ]
+  },
+  "sorbet_a_la_pomme": {
+    "nom": "Sorbet à la pomme",
+    "type": "dessert",
+    "etoiles": 3,
+    "ingredients": [
+      "Glace pilée",
+      "Pomme",
+      "Canne à sucre"
+    ]
+  },
+  "souffle": {
+    "nom": "Soufflé",
+    "type": "hors d'oeuvre",
+    "etoiles": 4,
+    "ingredients": [
+      "Fromage",
+      "Oeuf",
+      "Lait",
+      "Beurre"
+    ]
+  },
+  "soupe_aux_fruits_de_mer": {
+    "nom": "Soupe aux fruits de mer",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Fruits de mer",
+      "Légumes",
+      "Légumes"
+    ]
+  },
+  "soupe_aux_legumes": {
+    "nom": "Soupe aux légumes",
+    "type": "hors d'oeuvre",
+    "etoiles": 2,
+    "ingredients": [
+      "Légumes",
+      "Légumes"
+    ]
+  },
+  "soupe_cremeuse": {
+    "nom": "Soupe crémeuse",
+    "type": "hors d'oeuvre",
+    "etoiles": 4,
+    "ingredients": [
+      "Épices",
+      "Lait",
+      "Pomme de terre",
+      "Légumes"
+    ]
+  },
+  "soupe_d_okras": {
+    "nom": "Soupe d'okras",
+    "type": "hors d'oeuvre",
+    "etoiles": 1,
+    "ingredients": [
+      "Okra"
+    ]
+  },
+  "soupe_de_poireau": {
+    "nom": "Soupe de poireau",
+    "type": "plat principal",
+    "etoiles": 1,
+    "ingredients": [
+      "Poireau"
+    ]
+  },
+  "soupe_de_poisson": {
+    "nom": "Soupe de poisson",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Poissons",
+      "Légumes",
+      "Lait"
+    ]
+  },
+  "soupe_de_pommes_de_terre_et_de_poireaux": {
+    "nom": "Soupe de pommes de terre et de poireaux",
+    "type": "hors d'oeuvre",
+    "etoiles": 5,
+    "ingredients": [
+      "Poireau",
+      "Pomme de terre",
+      "Lait",
+      "Oignon",
+      "Ail"
+    ]
+  },
+  "soupe_piquante_au_piranha": {
+    "nom": "Soupe piquante au piranha",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Piment",
+      "Piranha",
+      "Bambou"
+    ]
+  },
+  "soupe_tomate_basilic": {
+    "nom": "Soupe tomate basilic",
+    "type": "hors d'oeuvre",
+    "etoiles": 2,
+    "ingredients": [
+      "Tomate",
+      "Basilic"
+    ]
+  },
+  "soupe_wonton": {
+    "nom": "Soupe wonton",
+    "type": "plat principal",
+    "etoiles": 5,
+    "ingredients": [
+      "Oeuf",
+      "Crevette",
+      "Blé",
+      "Oignon"
+    ]
+  },
+  "soupe_a_la_tomate": {
+    "nom": "Soupe à la tomate",
+    "type": "hors d'oeuvre",
+    "etoiles": 1,
+    "ingredients": [
+      "Tomate"
+    ]
+  },
+  "souvlaki": {
+    "nom": "Souvlaki",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Volaille",
+      "Citron",
+      "Menthe",
+      "Paprika"
+    ]
+  },
+  "spaetzle_a_la_betterave": {
+    "nom": "Spaetzle à la betterave",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Blé",
+      "Betterave",
+      "Oeuf"
+    ]
+  },
+  "spaghetti_arrabbiata": {
+    "nom": "Spaghetti arrabbiata",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Tomate",
+      "Blé",
+      "Piment"
+    ]
+  },
+  "spanakopita": {
+    "nom": "Spanakopita",
+    "type": "plat principal",
+    "etoiles": 5,
+    "ingredients": [
+      "Oignon",
+      "Épinards",
+      "Feta feuillet",
+      "Ail",
+      "Épices et herbes"
+    ]
+  },
+  "steak_de_chou_fleur": {
+    "nom": "Steak de chou-fleur",
+    "type": "plat principal",
+    "etoiles": 1,
+    "ingredients": [
+      "Chou-fleur"
+    ]
+  },
+  "steak_de_hamburger": {
+    "nom": "Steak de hamburger",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Gibier",
+      "Pomme de terre",
+      "Haricots",
+      "Légumes"
+    ]
+  },
+  "steak_de_poisson": {
+    "nom": "Steak de poisson",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Poissons",
+      "Tomate",
+      "Basilic"
+    ]
+  },
+  "steak_de_poisson_spectral": {
+    "nom": "Steak de poisson spectral",
+    "type": "plat principal",
+    "etoiles": 5,
+    "ingredients": [
+      "Poisson de l'Ici et là",
+      "Poivron",
+      "Asperge",
+      "Citron",
+      "Origan"
+    ]
+  },
+  "steak_de_thazard_aigre_doux": {
+    "nom": "Steak de thazard aigre-doux",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Thazard",
+      "Canne à sucre",
+      "Citron"
+    ]
+  },
+  "sushi": {
+    "nom": "Sushi",
+    "type": "plat principal",
+    "etoiles": 2,
+    "ingredients": [
+      "Poissons",
+      "Riz"
+    ]
+  },
+  "sushi_au_fugu": {
+    "nom": "Sushi au fugu",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Fugu",
+      "Riz",
+      "Algues"
+    ]
+  },
+  "sushi_au_saumon": {
+    "nom": "Sushi au saumon",
+    "type": "plat principal",
+    "etoiles": 2,
+    "ingredients": [
+      "Saumon",
+      "Riz"
+    ]
+  },
+  "sushi_au_thon": {
+    "nom": "Sushi au thon",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Thon",
+      "Riz",
+      "Algues",
+      "Gingembre"
+    ]
+  },
+  "selection_de_poissons_fumes": {
+    "nom": "Sélection de poissons fumés",
+    "type": "hors d'oeuvre",
+    "etoiles": 4,
+    "ingredients": [
+      "Poisson blanc des montagnes",
+      "Thon",
+      "Poissons",
+      "Blé"
+    ]
+  },
+  "taco_vegetarien": {
+    "nom": "Taco végétarien",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Maïs",
+      "Piment",
+      "Fromage",
+      "Légumes"
+    ]
+  },
+  "taco_a_la_viande": {
+    "nom": "Taco à la viande",
+    "type": "plat principal",
+    "etoiles": 5,
+    "ingredients": [
+      "Gibier",
+      "Piment",
+      "Maïs",
+      "Légumes",
+      "Cumin"
+    ]
+  },
+  "tacos_de_poisson": {
+    "nom": "Tacos de poisson",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Maïs",
+      "Piment",
+      "Fromage",
+      "Poissons"
+    ]
+  },
+  "taiyaki": {
+    "nom": "Taiyaki",
+    "type": "dessert",
+    "etoiles": 2,
+    "ingredients": [
+      "Poisson des sables",
+      "Haricots"
+    ]
+  },
+  "takoyaki": {
+    "nom": "Takoyaki",
+    "type": "hors d'oeuvre",
+    "etoiles": 4,
+    "ingredients": [
+      "Pieuvre",
+      "Algues",
+      "Oeuf",
+      "Soja"
+    ]
+  },
+  "tamagoyaki": {
+    "nom": "Tamagoyaki",
+    "type": "plat principal",
+    "etoiles": 2,
+    "ingredients": [
+      "Oeuf",
+      "Canne à sucre"
+    ]
+  },
+  "tapenade_olympienne": {
+    "nom": "Tapenade olympienne",
+    "type": "hors d'oeuvre",
+    "etoiles": 4,
+    "ingredients": [
+      "Grain élyséen",
+      "Olives",
+      "Melon miel",
+      "Épices et herbes"
+    ]
+  },
+  "tarte_au_chocolat_et_a_l_ail": {
+    "nom": "Tarte au chocolat et à l'ail",
+    "type": "dessert",
+    "etoiles": 5,
+    "ingredients": [
+      "Fromage",
+      "Fève de cacao",
+      "Ail",
+      "Oeuf",
+      "Blé"
+    ]
+  },
+  "tarte_aux_baies_acidulees": {
+    "nom": "Tarte aux baies acidulées",
+    "type": "dessert",
+    "etoiles": 3,
+    "ingredients": [
+      "Blé",
+      "Oeufs d'oiseau-pelle",
+      "Baies acidulées"
+    ]
+  },
+  "tarte_aux_baies_piquantes": {
+    "nom": "Tarte aux baies piquantes",
+    "type": "dessert",
+    "etoiles": 5,
+    "ingredients": [
+      "Blé",
+      "Beurre",
+      "Fraise",
+      "Épices",
+      "Cactibaies"
+    ]
+  },
+  "tarte_aux_cerises": {
+    "nom": "Tarte aux cerises",
+    "type": "dessert",
+    "etoiles": 3,
+    "ingredients": [
+      "Cerise",
+      "Blé",
+      "Beurre"
+    ]
+  },
+  "tarte_aux_fraises": {
+    "nom": "Tarte aux fraises",
+    "type": "dessert",
+    "etoiles": 3,
+    "ingredients": [
+      "Blé",
+      "Beurre",
+      "Fraise"
+    ]
+  },
+  "tarte_aux_fraises_et_a_la_rhubarbe": {
+    "nom": "Tarte aux fraises et à la rhubarbe",
+    "type": "dessert",
+    "etoiles": 4,
+    "ingredients": [
+      "Blé",
+      "Yaourt",
+      "Rhubarbe",
+      "Fraises spirales"
+    ]
+  },
+  "tarte_aux_fraises_spirales": {
+    "nom": "Tarte aux fraises spirales",
+    "type": "dessert",
+    "etoiles": 3,
+    "ingredients": [
+      "Blé",
+      "Oeufs d'oiseau-pelle",
+      "Fraises spirales"
+    ]
+  },
+  "tarte_aux_fruits": {
+    "nom": "Tarte aux fruits",
+    "type": "dessert",
+    "etoiles": 3,
+    "ingredients": [
+      "Fruits",
+      "Blé",
+      "Beurre"
+    ]
+  },
+  "tarte_aux_fruits_de_mer": {
+    "nom": "Tarte aux fruits de mer",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Fruits de mer",
+      "Blé",
+      "Beurre"
+    ]
+  },
+  "tarte_aux_groseilles_de_blanche_neige": {
+    "nom": "Tarte aux groseilles de Blanche Neige",
+    "type": "dessert",
+    "etoiles": 3,
+    "ingredients": [
+      "Groseille",
+      "Blé",
+      "Beurre"
+    ]
+  },
+  "tarte_aux_kakis": {
+    "nom": "Tarte aux kakis",
+    "type": "dessert",
+    "etoiles": 3,
+    "ingredients": [
+      "Blé",
+      "Oeufs d'oiseau-pelle",
+      "Kaki"
+    ]
+  },
+  "tarte_aux_myrtilles": {
+    "nom": "Tarte aux myrtilles",
+    "type": "dessert",
+    "etoiles": 3,
+    "ingredients": [
+      "Myrtille",
+      "Blé",
+      "Beurre"
+    ]
+  },
+  "tarte_aux_pommes": {
+    "nom": "Tarte aux pommes",
+    "type": "dessert",
+    "etoiles": 3,
+    "ingredients": [
+      "Pomme",
+      "Blé",
+      "Beurre"
+    ]
+  },
+  "tarte_aux_pommes_d_or": {
+    "nom": "Tarte aux pommes d'or",
+    "type": "dessert",
+    "etoiles": 3,
+    "ingredients": [
+      "Blé",
+      "Oeufs d'oiseau-pelle",
+      "Pomme d'or"
+    ]
+  },
+  "tarte_feerique": {
+    "nom": "Tarte féerique",
+    "type": "dessert",
+    "etoiles": 3,
+    "ingredients": [
+      "Fruit de Dreamlight",
+      "Blé",
+      "Beurre"
+    ]
+  },
+  "tarte_meringuee": {
+    "nom": "Tarte meringuée",
+    "type": "dessert",
+    "etoiles": 4,
+    "ingredients": [
+      "Citron",
+      "Blé",
+      "Oeuf",
+      "Beurre"
+    ]
+  },
+  "tarte_tatin_aux_poires": {
+    "nom": "Tarte tatin aux poires",
+    "type": "dessert",
+    "etoiles": 3,
+    "ingredients": [
+      "Blé",
+      "Oeuf",
+      "Poires nichées"
+    ]
+  },
+  "tarte_vegetarienne": {
+    "nom": "Tarte végétarienne",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Légumes",
+      "Blé",
+      "Beurre"
+    ]
+  },
+  "tartiflette_de_navet": {
+    "nom": "Tartiflette de navet",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Porc",
+      "Navet",
+      "Fromage"
+    ]
+  },
+  "tartiflette_vegetarienne_aux_navets": {
+    "nom": "Tartiflette végétarienne aux navets",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Champignon",
+      "Navet",
+      "Soja"
+    ]
+  },
+  "the_au_chrysantheme": {
+    "nom": "Thé au chrysanthème",
+    "type": "hors d'oeuvre",
+    "etoiles": 2,
+    "ingredients": [
+      "Feuilles de thé au chrysanthème",
+      "Myrtille"
+    ]
+  },
+  "the_au_jasmin": {
+    "nom": "Thé au jasmin",
+    "type": "hors d'oeuvre",
+    "etoiles": 2,
+    "ingredients": [
+      "Feuilles de thé au jasmin",
+      "Canne à sucre"
+    ]
+  },
+  "the_au_miel_et_au_cynorhodon": {
+    "nom": "Thé au miel et au cynorhodon",
+    "type": "hors d'oeuvre",
+    "etoiles": 1,
+    "ingredients": [
+      "Corail de miel"
+    ]
+  },
+  "the_aux_perles": {
+    "nom": "Thé aux perles",
+    "type": "dessert",
+    "etoiles": 2,
+    "ingredients": [
+      "Canne à sucre",
+      "Lait"
+    ]
+  },
+  "the_aux_perles_au_melon": {
+    "nom": "Thé aux perles au melon",
+    "type": "dessert",
+    "etoiles": 3,
+    "ingredients": [
+      "Melon",
+      "Lait",
+      "Canne à sucre"
+    ]
+  },
+  "the_aux_perles_a_la_fantasmangue": {
+    "nom": "Thé aux perles à la fantasmangue",
+    "type": "dessert",
+    "etoiles": 3,
+    "ingredients": [
+      "Fantasmangue",
+      "Lait",
+      "Canne à sucre"
+    ]
+  },
+  "the_aux_perles_a_la_framboise": {
+    "nom": "Thé aux perles à la framboise",
+    "type": "dessert",
+    "etoiles": 3,
+    "ingredients": [
+      "Canne à sucre",
+      "Lait",
+      "Framboise"
+    ]
+  },
+  "the_aux_perles_a_la_groseille": {
+    "nom": "Thé aux perles à la groseille",
+    "type": "dessert",
+    "etoiles": 3,
+    "ingredients": [
+      "Canne à sucre",
+      "Lait",
+      "Groseille"
+    ]
+  },
+  "the_aux_perles_a_la_menthe": {
+    "nom": "Thé aux perles à la menthe",
+    "type": "dessert",
+    "etoiles": 3,
+    "ingredients": [
+      "Canne à sucre",
+      "Lait",
+      "Menthe"
+    ]
+  },
+  "the_aux_perles_a_la_noix_de_coco": {
+    "nom": "Thé aux perles à la noix de coco",
+    "type": "dessert",
+    "etoiles": 3,
+    "ingredients": [
+      "Canne à sucre",
+      "Lait",
+      "Noix de coco"
+    ]
+  },
+  "the_glace_royal": {
+    "nom": "Thé glacé royal",
+    "type": "hors d'oeuvre",
+    "etoiles": 2,
+    "ingredients": [
+      "Glace pilée",
+      "Majesthé"
+    ]
+  },
+  "the_oolong": {
+    "nom": "Thé oolong",
+    "type": "hors d'oeuvre",
+    "etoiles": 2,
+    "ingredients": [
+      "Feuilles de thé oolong",
+      "Framboise"
+    ]
+  },
+  "the_royal": {
+    "nom": "Thé royal",
+    "type": "hors d'oeuvre",
+    "etoiles": 1,
+    "ingredients": [
+      "Majesthé"
+    ]
+  },
+  "the_a_la_menthe_poivree": {
+    "nom": "Thé à la menthe poivrée",
+    "type": "hors d'oeuvre",
+    "etoiles": 1,
+    "ingredients": [
+      "Citron",
+      "Menthe"
+    ]
+  },
+  "tilapia_et_legumes_poeles": {
+    "nom": "Tilapia et légumes poêlés",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Tilapia",
+      "Légumes",
+      "Légumes"
+    ]
+  },
+  "tofu": {
+    "nom": "Tofu",
+    "type": "plat principal",
+    "etoiles": 1,
+    "ingredients": [
+      "Soja"
+    ]
+  },
+  "tofu_sucre": {
+    "nom": "Tofu sucré",
+    "type": "dessert",
+    "etoiles": 2,
+    "ingredients": [
+      "Soja",
+      "Fruits"
+    ]
+  },
+  "tourte_a_la_viande": {
+    "nom": "Tourte à la viande",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Protéines",
+      "Blé",
+      "Beurre"
+    ]
+  },
+  "tourtiere": {
+    "nom": "Tourtière",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Gibier",
+      "Blé",
+      "Pomme de terre",
+      "Légumes"
+    ]
+  },
+  "truc_gris": {
+    "nom": "Truc gris",
+    "type": "dessert",
+    "etoiles": 3,
+    "ingredients": [
+      "Laitages",
+      "Canne à sucre",
+      "Fève de cacao"
+    ]
+  },
+  "truite_arc_en_ciel_grillee": {
+    "nom": "Truite arc-en-ciel grillée",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Truite arc-en-ciel",
+      "Tomate",
+      "Oignon"
+    ]
+  },
+  "tzatziki": {
+    "nom": "Tzatziki",
+    "type": "hors d'oeuvre",
+    "etoiles": 3,
+    "ingredients": [
+      "Concombre",
+      "Yaourt",
+      "Ail"
+    ]
+  },
+  "udon_sucre": {
+    "nom": "Udon sucré",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Fruit de Dreamlight",
+      "Riz",
+      "Fruits de mer",
+      "Sucres"
+    ]
+  },
+  "un_the_des_plus_curieux": {
+    "nom": "Un thé des plus curieux",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Yaourt",
+      "Fraises spirales",
+      "Cristal de sel",
+      "Baies acidulées"
+    ]
+  },
+  "yakisoba": {
+    "nom": "Yakisoba",
+    "type": "plat principal",
+    "etoiles": 3,
+    "ingredients": [
+      "Porc",
+      "Chou",
+      "Blé"
+    ]
+  },
+  "yaourt_de_petit_dejeuner_garni": {
+    "nom": "Yaourt de petit déjeuner garni",
+    "type": "plat principal",
+    "etoiles": 4,
+    "ingredients": [
+      "Avoine",
+      "Yaourt",
+      "Fraises spirales",
+      "Ambroisie"
+    ]
+  },
+  "yaourt_piquant": {
+    "nom": "Yaourt piquant",
+    "type": "dessert",
+    "etoiles": 2,
+    "ingredients": [
+      "Yaourt",
+      "Épices et herbes"
+    ]
+  },
+  "yaourt_a_la_vanille": {
+    "nom": "Yaourt à la vanille",
+    "type": "dessert",
+    "etoiles": 2,
+    "ingredients": [
+      "Yaourt",
+      "Vanille"
+    ]
+  },
+  "eclair_de_foudre": {
+    "nom": "Éclair de foudre",
+    "type": "hors d'oeuvre",
+    "etoiles": 5,
+    "ingredients": [
+      "Épice foudroyante",
+      "Épice foudroyante",
+      "Périophtalme stygien",
+      "Lamproie",
+      "Sucres"
+    ]
+  },
+  "ecrous_et_boulons": {
+    "nom": "Écrous et boulons",
+    "type": "hors d'oeuvre",
+    "etoiles": 2,
+    "ingredients": [
+      "Poisson-robot",
+      "Amandes"
+    ]
+  },
+  "etoile_de_mer_bleue_brillante_grillee": {
+    "nom": "Étoile de mer bleue brillante grillée",
+    "type": "hors d'oeuvre",
+    "etoiles": 2,
+    "ingredients": [
+      "Étoile de mer bleue brillante",
+      "Menthe"
+    ]
+  },
+  "etoile_de_mer_rose_au_barbecue": {
+    "nom": "Étoile de mer rose au barbecue",
+    "type": "hors d'oeuvre",
+    "etoiles": 2,
+    "ingredients": [
+      "Jolie étoile de mer rose",
+      "Paprika"
+    ]
+  }
+}
