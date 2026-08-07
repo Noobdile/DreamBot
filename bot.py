@@ -172,7 +172,7 @@ def format_recette(
     )
 
     ingredients = "\n".join(
-        f"- {ingredient}"
+        f"• {ingredient}"
         for ingredient
         in recette.get(
             "ingredients",
@@ -181,11 +181,10 @@ def format_recette(
     )
 
     return (
-        f'**{recette["nom"]} '
-        f'({recette["type"]})** '
-        f'{etoiles}\n\n'
+        f'**{recette["nom"]} ({recette["type"]})** {etoiles}\n\n'
         f'{ingredients}'
-        f'Si tu veux une recette, tape `/recette nom_de_ta_recette`'
+        f'\n\n'
+        f'💡 Si tu veux une autre recette, tape `/recette nom_de_ta_recette`.'
     )
 
 
